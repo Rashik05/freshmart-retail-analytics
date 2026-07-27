@@ -1,0 +1,851 @@
+﻿ProductID,SKU,Barcode,ProductName,Brand,CategoryID,Category,SubCategory,SupplierID,SupplierName,Unit,CostPrice,SellingPrice,MarginPercent,Taxable,ReorderLevel,Status
+P000001,DAR-0001,62210000001,Whole Milk 3.25%,Dairyland,CAT001,Dairy,Milk,SUP001,Fresh Dairy Co.,4 L,5.49,7.49,27,0,20,Active
+P000002,DAR-0002,62210000002,2% Milk,Dairyland,CAT001,Dairy,Milk,SUP001,Fresh Dairy Co.,4 L,5.29,7.29,27,0,20,Active
+P000003,DAR-0003,62210000003,1% Milk,Dairyland,CAT001,Dairy,Milk,SUP001,Fresh Dairy Co.,4 L,5.19,7.19,28,0,20,Active
+P000004,DAR-0004,62210000004,Skim Milk,Natrel,CAT001,Dairy,Milk,SUP012,0rthStar Dairy,4 L,5.29,7.29,27,0,18,Active
+P000005,DAR-0005,62210000005,Lactose Free 2% Milk,Natrel,CAT001,Dairy,Milk,SUP013,Wellness Source,2 L,4.99,6.99,29,0,18,Active
+P000006,DAR-0006,62210000006,Organic Whole Milk,Organic Meadow,CAT001,Dairy,Milk,SUP013,Wellness Source,2 L,5.99,8.49,29,0,15,Active
+P000007,DAR-0007,62210000007,Chocolate Milk,Dairyland,CAT001,Dairy,Flavoured Milk,SUP001,Fresh Dairy Co.,1 L,2.79,3.99,30,0,20,Active
+P000008,DAR-0008,62210000008,Strawberry Milk,Dairyland,CAT001,Dairy,Flavoured Milk,SUP001,Fresh Dairy Co.,1 L,2.79,3.99,30,0,20,Active
+P000009,DAR-0009,62210000009,Half & Half Cream 10%,Lactantia,CAT001,Dairy,Cream,SUP012,0rthStar Dairy,1 L,3.49,4.99,30,0,18,Active
+P000010,DAR-0010,62210000010,Heavy Whipping Cream 35%,Lactantia,CAT001,Dairy,Cream,SUP012,0rthStar Dairy,1 L,4.99,6.99,29,0,15,Active
+P000011,DAR-0011,62210000011,Coffee Cream 18%,Neilson,CAT001,Dairy,Cream,SUP012,0rthStar Dairy,1 L,3.99,5.69,30,0,18,Active
+P000012,DAR-0012,62210000012,Salted Butter,Lactantia,CAT001,Dairy,Butter,SUP001,Fresh Dairy Co.,454 g,5.49,7.49,27,0,18,Active
+P000013,DAR-0013,62210000013,Unsalted Butter,Lactantia,CAT001,Dairy,Butter,SUP001,Fresh Dairy Co.,454 g,5.49,7.49,27,0,18,Active
+P000014,DAR-0014,62210000014,Garlic Butter,Gay Lea,CAT001,Dairy,Butter,SUP001,Fresh Dairy Co.,250 g,3.99,5.49,27,0,15,Active
+P000015,DAR-0015,62210000015,European Butter,Lurpak,CAT001,Dairy,Butter,SUP012,0rthStar Dairy,250 g,5.99,8.49,29,0,12,Active
+P000016,DAR-0016,62210000016,Mild Cheddar Cheese Block,Black Diamond,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,400 g,6.49,8.99,28,0,15,Active
+P000017,DAR-0017,62210000017,Marble Cheese Block,Black Diamond,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,400 g,6.49,8.99,28,0,15,Active
+P000018,DAR-0018,62210000018,Mozzarella Cheese Block,Saputo,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,450 g,6.99,9.49,26,0,15,Active
+P000019,DAR-0019,62210000019,Parmesan Cheese Wedge,Saputo,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,200 g,5.99,8.29,28,0,12,Active
+P000020,DAR-0020,62210000020,Monterey Jack Cheese,Cracker Barrel,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,400 g,6.79,9.29,27,0,15,Active
+P000021,DAR-0021,62210000021,Gouda Cheese Block,Saputo,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,300 g,6.99,9.49,26,0,12,Active
+P000022,DAR-0022,62210000022,Havarti Cheese Block,Castello,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,250 g,6.79,9.29,27,0,12,Active
+P000023,DAR-0023,62210000023,Shredded Mozzarella Cheese,Black Diamond,CAT001,Dairy,Shredded Cheese,SUP012,0rthStar Dairy,320 g,5.49,7.49,27,0,18,Active
+P000024,DAR-0024,62210000024,Shredded Cheddar Cheese,Black Diamond,CAT001,Dairy,Shredded Cheese,SUP012,0rthStar Dairy,320 g,5.49,7.49,27,0,18,Active
+P000025,DAR-0025,62210000025,Shredded Pizza Blend,Cracker Barrel,CAT001,Dairy,Shredded Cheese,SUP012,0rthStar Dairy,320 g,5.69,7.79,27,0,18,Active
+P000026,DAR-0026,62210000026,Tex Mex Shredded Cheese,Cracker Barrel,CAT001,Dairy,Shredded Cheese,SUP012,0rthStar Dairy,320 g,5.69,7.79,27,0,18,Active
+P000027,DAR-0027,62210000027,Cheddar Cheese Slices,Black Diamond,CAT001,Dairy,Cheese Slices,SUP012,0rthStar Dairy,410 g,6.29,8.69,28,0,15,Active
+P000028,DAR-0028,62210000028,Swiss Cheese Slices,Black Diamond,CAT001,Dairy,Cheese Slices,SUP012,0rthStar Dairy,410 g,6.49,8.99,28,0,15,Active
+P000029,DAR-0029,62210000029,Marble Cheese Slices,Cracker Barrel,CAT001,Dairy,Cheese Slices,SUP012,0rthStar Dairy,410 g,6.29,8.69,28,0,15,Active
+P000030,DAR-0030,62210000030,Kraft Singles,Kraft,CAT001,Dairy,Cheese Slices,SUP012,0rthStar Dairy,410 g,5.99,8.29,28,0,15,Active
+P000031,DAR-0031,62210000031,Plain Greek Yogurt,Oikos,CAT001,Dairy,Greek Yogurt,SUP013,Wellness Source,750 g,4.99,6.99,29,0,18,Active
+P000032,DAR-0032,62210000032,Vanilla Greek Yogurt,Oikos,CAT001,Dairy,Greek Yogurt,SUP013,Wellness Source,750 g,5.19,7.29,29,0,18,Active
+P000033,DAR-0033,62210000033,Strawberry Greek Yogurt,Oikos,CAT001,Dairy,Greek Yogurt,SUP013,Wellness Source,750 g,5.19,7.29,29,0,18,Active
+P000034,DAR-0034,62210000034,Organic Greek Yogurt,Liberté,CAT001,Dairy,Greek Yogurt,SUP013,Wellness Source,650 g,5.99,8.49,29,0,15,Active
+P000035,DAR-0035,62210000035,Plain Yogurt,Activia,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,4.29,6.19,31,0,18,Active
+P000036,DAR-0036,62210000036,Vanilla Yogurt,Activia,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,4.29,6.19,31,0,18,Active
+P000037,DAR-0037,62210000037,Strawberry Yogurt,Activia,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,4.29,6.19,31,0,18,Active
+P000038,DAR-0038,62210000038,Peach Yogurt,Activia,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,4.29,6.19,31,0,18,Active
+P000039,DAR-0039,62210000039,Mixed Berry Yogurt,Yoplait,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,4.39,6.29,30,0,18,Active
+P000040,DAR-0040,62210000040,Raspberry Yogurt,Yoplait,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,4.39,6.29,30,0,18,Active
+P000041,DAR-0041,62210000041,Original Cream Cheese,Philadelphia,CAT001,Dairy,Cream Cheese,SUP001,Fresh Dairy Co.,250 g,3.99,5.69,30,0,18,Active
+P000042,DAR-0042,62210000042,Light Cream Cheese,Philadelphia,CAT001,Dairy,Cream Cheese,SUP001,Fresh Dairy Co.,250 g,3.99,5.69,30,0,18,Active
+P000043,DAR-0043,62210000043,Herb & Garlic Cream Cheese,Philadelphia,CAT001,Dairy,Cream Cheese,SUP001,Fresh Dairy Co.,250 g,4.29,6.19,31,0,15,Active
+P000044,DAR-0044,62210000044,Whipped Cream Cheese,Philadelphia,CAT001,Dairy,Cream Cheese,SUP001,Fresh Dairy Co.,227 g,4.29,6.19,31,0,15,Active
+P000045,DAR-0045,62210000045,Sour Cream 14%,Dairyland,CAT001,Dairy,Sour Cream,SUP001,Fresh Dairy Co.,500 mL,2.99,4.29,30,0,20,Active
+P000046,DAR-0046,62210000046,Light Sour Cream,Dairyland,CAT001,Dairy,Sour Cream,SUP001,Fresh Dairy Co.,500 mL,2.99,4.29,30,0,20,Active
+P000047,DAR-0047,62210000047,Organic Sour Cream,Organic Meadow,CAT001,Dairy,Sour Cream,SUP013,Wellness Source,500 mL,4.29,6.19,31,0,15,Active
+P000048,DAR-0048,62210000048,Cottage Cheese 2%,Dairyland,CAT001,Dairy,Cottage Cheese,SUP001,Fresh Dairy Co.,500 g,3.99,5.69,30,0,18,Active
+P000049,DAR-0049,62210000049,Cottage Cheese 4%,Dairyland,CAT001,Dairy,Cottage Cheese,SUP001,Fresh Dairy Co.,500 g,4.19,5.99,30,0,18,Active
+P000050,DAR-0050,62210000050,Plain Kefir,Liberté,CAT001,Dairy,Kefir,SUP013,Wellness Source,1 L,5.49,7.79,29,0,12,Active
+P000051,DAR-0051,62210000051,Strawberry Kefir,Liberté,CAT001,Dairy,Kefir,SUP013,Wellness Source,1 L,5.69,7.99,29,0,12,Active
+P000052,DAR-0052,62210000052,Blueberry Kefir,Liberté,CAT001,Dairy,Kefir,SUP013,Wellness Source,1 L,5.69,7.99,29,0,12,Active
+P000053,DAR-0053,62210000053,Buttermilk,Dairyland,CAT001,Dairy,Milk,SUP001,Fresh Dairy Co.,1 L,3.49,4.99,30,0,15,Active
+P000054,DAR-0054,62210000054,Lactose-Free Whole Milk,Natrel,CAT001,Dairy,Milk,SUP013,Wellness Source,2 L,5.29,7.49,29,0,15,Active
+P000055,DAR-0055,62210000055,Lactose-Free Skim Milk,Natrel,CAT001,Dairy,Milk,SUP013,Wellness Source,2 L,5.19,7.29,29,0,15,Active
+P000056,DAR-0056,62210000056,Organic 2% Milk,Organic Meadow,CAT001,Dairy,Milk,SUP013,Wellness Source,2 L,5.99,8.49,29,0,12,Active
+P000057,DAR-0057,62210000057,Brie Cheese,Président,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,200 g,6.99,9.99,30,0,10,Active
+P000058,DAR-0058,62210000058,Camembert Cheese,Président,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,200 g,7.29,10.49,31,0,10,Active
+P000059,DAR-0059,62210000059,Feta Cheese Crumbles,Tre Stelle,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,200 g,5.99,8.49,29,0,12,Active
+P000060,DAR-0060,62210000060,Goat Cheese,Woolwich Dairy,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,140 g,6.49,8.99,28,0,10,Active
+P000061,DAR-0061,62210000061,Ricotta Cheese,Tre Stelle,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,475 g,5.99,8.49,29,0,12,Active
+P000062,DAR-0062,62210000062,Bocconcini Cheese,Tre Stelle,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,200 g,5.79,8.19,29,0,12,Active
+P000063,DAR-0063,62210000063,Fresh Mozzarella,Saputo,CAT001,Dairy,Specialty Cheese,SUP012,0rthStar Dairy,200 g,5.99,8.49,29,0,12,Active
+P000064,DAR-0064,62210000064,Swiss Cheese Block,Jarlsberg,CAT001,Dairy,Cheese Block,SUP012,0rthStar Dairy,250 g,7.49,10.49,29,0,10,Active
+P000065,DAR-0065,62210000065,Lactose-Free Cheddar Cheese,Black Diamond,CAT001,Dairy,Cheese Block,SUP013,Wellness Source,400 g,7.29,9.99,27,0,12,Active
+P000066,DAR-0066,62210000066,Organic Plain Yogurt,Liberté,CAT001,Dairy,Yogurt,SUP013,Wellness Source,650 g,5.29,7.49,29,0,15,Active
+P000067,DAR-0067,62210000067,Vanilla Skyr Yogurt,Icelandic Provisions,CAT001,Dairy,Greek Yogurt,SUP013,Wellness Source,500 g,5.99,8.49,29,0,12,Active
+P000068,DAR-0068,62210000068,Plain Skyr Yogurt,Icelandic Provisions,CAT001,Dairy,Greek Yogurt,SUP013,Wellness Source,500 g,5.99,8.49,29,0,12,Active
+P000069,DAR-0069,62210000069,Unsalted European Butter,Lurpak,CAT001,Dairy,Butter,SUP012,0rthStar Dairy,250 g,5.99,8.49,29,0,12,Active
+P000070,DAR-0070,62210000070,Becel Original Margarine,Becel,CAT001,Dairy,Margarine,SUP001,Fresh Dairy Co.,850 g,5.29,7.49,29,0,15,Active
+P000071,BAK-0001,62210000071,Dempster's White Bread,Dempster's,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,675 g,2.49,3.79,34,0,30,Active
+P000072,BAK-0002,62210000072,Dempster's Whole Wheat Bread,Dempster's,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,675 g,2.69,3.99,33,0,30,Active
+P000073,BAK-0003,62210000073,Wonder White Bread,Wonder,CAT002,Bakery,Bread,SUP023,Sunrise Bakery Partners,675 g,2.39,3.49,32,0,25,Active
+P000074,BAK-0004,62210000074,Country Harvest Multigrain Bread,Country Harvest,CAT002,Bakery,Bread,SUP023,Sunrise Bakery Partners,600 g,3.29,4.79,31,0,20,Active
+P000075,BAK-0005,62210000075,Villaggio Italian Bread,Villaggio,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,600 g,3.49,4.99,30,0,20,Active
+P000076,BAK-0006,62210000076,ACE Sourdough Bread,ACE Bakery,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,500 g,3.99,5.99,33,0,18,Active
+P000077,BAK-0007,62210000077,Dempster's Hot Dog Buns,Dempster's,CAT002,Bakery,Buns & Rolls,SUP002,Maple Bakery Supply,8 Pack,2.49,3.79,34,0,20,Active
+P000078,BAK-0008,62210000078,Dempster's Hamburger Buns,Dempster's,CAT002,Bakery,Buns & Rolls,SUP002,Maple Bakery Supply,8 Pack,2.49,3.79,34,0,20,Active
+P000079,BAK-0009,62210000079,Wonder Dinner Rolls,Wonder,CAT002,Bakery,Buns & Rolls,SUP023,Sunrise Bakery Partners,12 Pack,2.89,4.19,31,0,18,Active
+P000080,BAK-0010,62210000080,Dempster's Plain Bagels,Dempster's,CAT002,Bakery,Bagels,SUP002,Maple Bakery Supply,6 Pack,2.99,4.29,30,0,18,Active
+P000081,BAK-0011,62210000081,Dempster's Everything Bagels,Dempster's,CAT002,Bakery,Bagels,SUP002,Maple Bakery Supply,6 Pack,2.99,4.29,30,0,18,Active
+P000082,BAK-0012,62210000082,Casa Mendosa Tortillas,Casa Mendosa,CAT002,Bakery,Tortillas & Wraps,SUP023,Sunrise Bakery Partners,8 Pack,3.19,4.69,32,0,18,Active
+P000083,BAK-0013,62210000083,Rudolph's Whole Wheat Wraps,Rudolph's,CAT002,Bakery,Tortillas & Wraps,SUP023,Sunrise Bakery Partners,8 Pack,3.29,4.89,33,0,18,Active
+P000084,BAK-0014,62210000084,Butter Croissants,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP002,Maple Bakery Supply,4 Pack,4.49,6.49,31,0,15,Active
+P000085,BAK-0015,62210000085,Chocolate Croissants,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP002,Maple Bakery Supply,4 Pack,4.79,6.99,31,0,15,Active
+P000086,BAK-0016,62210000086,Blueberry Muffins,Bake Shop,CAT002,Bakery,Muffins,SUP023,Sunrise Bakery Partners,6 Pack,4.29,6.19,31,0,15,Active
+P000087,BAK-0017,62210000087,Chocolate Muffins,Bake Shop,CAT002,Bakery,Muffins,SUP023,Sunrise Bakery Partners,6 Pack,4.29,6.19,31,0,15,Active
+P000088,BAK-0018,62210000088,Glazed Donuts,Bake Shop,CAT002,Bakery,Donuts,SUP002,Maple Bakery Supply,6 Pack,4.49,6.49,31,0,15,Active
+P000089,BAK-0019,62210000089,Chocolate Donuts,Bake Shop,CAT002,Bakery,Donuts,SUP002,Maple Bakery Supply,6 Pack,4.49,6.49,31,0,15,Active
+P000090,BAK-0020,62210000090,Vanilla Cake,Bake Shop,CAT002,Bakery,Cakes,SUP023,Sunrise Bakery Partners,Each,12.99,18.99,32,0,8,Active
+P000091,BAK-0021,62210000091,Marble Cake,Bake Shop,CAT002,Bakery,Cakes,SUP023,Sunrise Bakery Partners,Each,13.49,19.99,33,0,8,Active
+P000092,BAK-0022,62210000092,Chocolate Cake,Bake Shop,CAT002,Bakery,Cakes,SUP023,Sunrise Bakery Partners,Each,14.29,20.99,32,0,8,Active
+P000093,BAK-0023,62210000093,Oatmeal Cookies,Bake Shop,CAT002,Bakery,Cookies,SUP002,Maple Bakery Supply,12 Pack,3.99,5.99,33,0,15,Active
+P000094,BAK-0024,62210000094,Chocolate Chip Cookies,Bake Shop,CAT002,Bakery,Cookies,SUP002,Maple Bakery Supply,12 Pack,4.19,6.29,33,0,15,Active
+P000095,BAK-0025,62210000095,Double Chocolate Cookies,Bake Shop,CAT002,Bakery,Cookies,SUP002,Maple Bakery Supply,12 Pack,4.29,6.49,34,0,15,Active
+P000096,BAK-0026,62210000096,Dempster's Raisin Bread,Dempster's,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,675 g,2.99,4.39,32,0,20,Active
+P000097,BAK-0027,62210000097,Dempster's 12 Grain Bread,Dempster's,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,675 g,2.99,4.49,33,0,20,Active
+P000098,BAK-0028,62210000098,Wonder Whole Wheat Bread,Wonder,CAT002,Bakery,Bread,SUP023,Sunrise Bakery Partners,675 g,2.59,3.89,33,0,20,Active
+P000099,BAK-0029,62210000099,Country Harvest Oat Bread,Country Harvest,CAT002,Bakery,Bread,SUP023,Sunrise Bakery Partners,600 g,3.39,4.99,32,0,18,Active
+P000100,BAK-0030,62210000100,ACE Multigrain Bread,ACE Bakery,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,500 g,4.19,6.19,32,0,15,Active
+P000101,BAK-0031,62210000101,Sesame Bagels,Dempster's,CAT002,Bakery,Bagels,SUP002,Maple Bakery Supply,6 Pack,3.09,4.49,31,0,15,Active
+P000102,BAK-0032,62210000102,Cinnamon Raisin Bagels,Dempster's,CAT002,Bakery,Bagels,SUP002,Maple Bakery Supply,6 Pack,3.19,4.59,30,0,15,Active
+P000103,BAK-0033,62210000103,Plain Tortillas,Casa Mendosa,CAT002,Bakery,Tortillas & Wraps,SUP023,Sunrise Bakery Partners,10 Pack,3.39,4.99,32,0,15,Active
+P000104,BAK-0034,62210000104,Spinach Wraps,Rudolph's,CAT002,Bakery,Tortillas & Wraps,SUP023,Sunrise Bakery Partners,8 Pack,3.49,5.19,33,0,15,Active
+P000105,BAK-0035,62210000105,Butter Dinner Rolls,Bake Shop,CAT002,Bakery,Buns & Rolls,SUP002,Maple Bakery Supply,12 Pack,3.49,4.99,30,0,18,Active
+P000106,BAK-0036,62210000106,Brioche Buns,Bake Shop,CAT002,Bakery,Buns & Rolls,SUP002,Maple Bakery Supply,6 Pack,3.89,5.69,32,0,15,Active
+P000107,BAK-0037,62210000107,Apple Tur0vers,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP023,Sunrise Bakery Partners,4 Pack,4.99,7.19,31,0,12,Active
+P000108,BAK-0038,62210000108,Cheese Danish,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP023,Sunrise Bakery Partners,4 Pack,5.19,7.49,31,0,12,Active
+P000109,BAK-0039,62210000109,Banana Muffins,Bake Shop,CAT002,Bakery,Muffins,SUP002,Maple Bakery Supply,6 Pack,4.29,6.29,32,0,15,Active
+P000110,BAK-0040,62210000110,Bran Muffins,Bake Shop,CAT002,Bakery,Muffins,SUP002,Maple Bakery Supply,6 Pack,4.29,6.29,32,0,15,Active
+P000111,BAK-0041,62210000111,English Muffins,Dempster's,CAT002,Bakery,Muffins,SUP002,Maple Bakery Supply,6 Pack,3.19,4.59,31,0,15,Active
+P000112,BAK-0042,62210000112,Lemon Poppy Seed Muffins,Bake Shop,CAT002,Bakery,Muffins,SUP023,Sunrise Bakery Partners,6 Pack,4.39,6.39,31,0,15,Active
+P000113,BAK-0043,62210000113,Cinnamon Donuts,Bake Shop,CAT002,Bakery,Donuts,SUP002,Maple Bakery Supply,6 Pack,4.59,6.69,31,0,15,Active
+P000114,BAK-0044,62210000114,Boston Cream Donuts,Bake Shop,CAT002,Bakery,Donuts,SUP002,Maple Bakery Supply,6 Pack,4.79,6.99,32,0,15,Active
+P000115,BAK-0045,62210000115,Powdered Donuts,Bake Shop,CAT002,Bakery,Donuts,SUP002,Maple Bakery Supply,6 Pack,4.49,6.49,31,0,15,Active
+P000116,BAK-0046,62210000116,Whole Wheat Tortillas,Casa Mendosa,CAT002,Bakery,Tortillas & Wraps,SUP023,Sunrise Bakery Partners,10 Pack,3.49,5.09,31,0,18,Active
+P000117,BAK-0047,62210000117,Spinach Tortillas,Casa Mendosa,CAT002,Bakery,Tortillas & Wraps,SUP023,Sunrise Bakery Partners,8 Pack,3.59,5.19,31,0,18,Active
+P000118,BAK-0048,62210000118,Brioche Bread,Villaggio,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,600 g,4.19,5.99,30,0,15,Active
+P000119,BAK-0049,62210000119,Rye Bread,Stonemill,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,600 g,3.49,5.09,31,0,18,Active
+P000120,BAK-0050,62210000120,French Bread,ACE Bakery,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,500 g,3.99,5.79,31,0,15,Active
+P000121,BAK-0051,62210000121,Sesame Hamburger Buns,Dempster's,CAT002,Bakery,Buns & Rolls,SUP002,Maple Bakery Supply,8 Pack,2.79,4.09,32,0,18,Active
+P000122,BAK-0052,62210000122,Brioche Hamburger Buns,Villaggio,CAT002,Bakery,Buns & Rolls,SUP002,Maple Bakery Supply,6 Pack,3.69,5.39,32,0,15,Active
+P000123,BAK-0053,62210000123,Mini Croissants,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP023,Sunrise Bakery Partners,8 Pack,4.99,7.19,31,0,12,Active
+P000124,BAK-0054,62210000124,Almond Croissants,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP023,Sunrise Bakery Partners,4 Pack,5.39,7.79,31,0,12,Active
+P000125,BAK-0055,62210000125,Cinnamon Rolls,Bake Shop,CAT002,Bakery,Croissants & Pastries,SUP002,Maple Bakery Supply,6 Pack,5.19,7.49,31,0,12,Active
+P000126,BAK-0056,62210000126,Chocolate Brownies,Bake Shop,CAT002,Bakery,Cookies,SUP002,Maple Bakery Supply,6 Pack,4.89,6.99,30,0,12,Active
+P000127,BAK-0057,62210000127,Butter Cookies,Bake Shop,CAT002,Bakery,Cookies,SUP002,Maple Bakery Supply,12 Pack,4.19,6.09,31,0,15,Active
+P000128,BAK-0058,62210000128,Sugar Cookies,Bake Shop,CAT002,Bakery,Cookies,SUP023,Sunrise Bakery Partners,12 Pack,4.19,6.09,31,0,15,Active
+P000129,BAK-0059,62210000129,Artisan White Loaf,ACE Bakery,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,550 g,4.49,6.49,31,0,15,Active
+P000130,BAK-0060,62210000130,Multigrain Artisan Loaf,ACE Bakery,CAT002,Bakery,Bread,SUP002,Maple Bakery Supply,550 g,4.59,6.69,31,0,15,Active
+P000131,PRO-0001,62210000131,Gala Apples,BC Fresh,CAT003,Produce,Apples,SUP003,Pacific Produce Ltd.,3 lb Bag,3.99,5.99,33,0,30,Active
+P000132,PRO-0002,62210000132,Granny Smith Apples,BC Fresh,CAT003,Produce,Apples,SUP003,Pacific Produce Ltd.,Each,0.79,1.19,34,0,80,Active
+P000133,PRO-0003,62210000133,Honeycrisp Apples,BC Fresh,CAT003,Produce,Apples,SUP014,Fresh Choice Farms,Each,1.29,1.89,32,0,60,Active
+P000134,PRO-0004,62210000134,Fuji Apples,BC Fresh,CAT003,Produce,Apples,SUP014,Fresh Choice Farms,Each,0.89,1.29,31,0,70,Active
+P000135,PRO-0005,62210000135,Red Delicious Apples,BC Fresh,CAT003,Produce,Apples,SUP003,Pacific Produce Ltd.,3 lb Bag,3.79,5.69,33,0,25,Active
+P000136,PRO-0006,62210000136,Ambrosia Apples,BC Fresh,CAT003,Produce,Apples,SUP014,Fresh Choice Farms,Each,1.19,1.79,33,0,55,Active
+P000137,PRO-0007,62210000137,Pink Lady Apples,BC Fresh,CAT003,Produce,Apples,SUP003,Pacific Produce Ltd.,Each,1.09,1.69,35,0,55,Active
+P000138,PRO-0008,62210000138,Macintosh Apples,BC Fresh,CAT003,Produce,Apples,SUP014,Fresh Choice Farms,3 lb Bag,3.89,5.79,33,0,25,Active
+P000139,PRO-0009,62210000139,Organic Gala Apples,BC Fresh,CAT003,Produce,Apples,SUP014,Fresh Choice Farms,2 lb Bag,5.29,7.49,29,0,20,Active
+P000140,PRO-0010,62210000140,Organic Honeycrisp Apples,BC Fresh,CAT003,Produce,Apples,SUP014,Fresh Choice Farms,Each,1.69,2.39,29,0,35,Active
+P000141,PRO-0011,62210000141,Cavendish Bananas,Chiquita,CAT003,Produce,Bananas,SUP003,Pacific Produce Ltd.,kg,1.19,1.79,34,0,120,Active
+P000142,PRO-0012,62210000142,Organic Bananas,Dole,CAT003,Produce,Bananas,SUP014,Fresh Choice Farms,kg,1.89,2.79,32,0,60,Active
+P000143,PRO-0013,62210000143,Mini Bananas,Chiquita,CAT003,Produce,Bananas,SUP003,Pacific Produce Ltd.,kg,2.49,3.59,31,0,40,Active
+P000144,PRO-0014,62210000144,Green Bananas,Dole,CAT003,Produce,Bananas,SUP014,Fresh Choice Farms,kg,1.39,2.09,33,0,50,Active
+P000145,PRO-0015,62210000145,Banana Bunch,Chiquita,CAT003,Produce,Bananas,SUP003,Pacific Produce Ltd.,Each,2.49,3.69,33,0,40,Active
+P000146,PRO-0016,62210000146,Navel Oranges,Sunkist,CAT003,Produce,Oranges,SUP003,Pacific Produce Ltd.,3 lb Bag,4.29,6.49,34,0,30,Active
+P000147,PRO-0017,62210000147,Valencia Oranges,Sunkist,CAT003,Produce,Oranges,SUP014,Fresh Choice Farms,3 lb Bag,4.39,6.59,33,0,30,Active
+P000148,PRO-0018,62210000148,Mandarin Oranges,Sunkist,CAT003,Produce,Oranges,SUP003,Pacific Produce Ltd.,2 lb Bag,4.89,6.99,30,0,25,Active
+P000149,PRO-0019,62210000149,Cara Cara Oranges,BC Fresh,CAT003,Produce,Oranges,SUP014,Fresh Choice Farms,Each,0.99,1.49,34,0,45,Active
+P000150,PRO-0020,62210000150,Blood Oranges,BC Fresh,CAT003,Produce,Oranges,SUP014,Fresh Choice Farms,Each,1.19,1.79,33,0,40,Active
+P000151,PRO-0021,62210000151,Blueberries,Driscoll's,CAT003,Produce,Berries,SUP014,Fresh Choice Farms,340 g,3.49,4.99,30,0,25,Active
+P000152,PRO-0022,62210000152,Strawberries,Driscoll's,CAT003,Produce,Berries,SUP014,Fresh Choice Farms,454 g,4.29,5.99,28,0,20,Active
+P000153,PRO-0023,62210000153,Raspberries,Driscoll's,CAT003,Produce,Berries,SUP014,Fresh Choice Farms,170 g,3.99,5.69,30,0,18,Active
+P000154,PRO-0024,62210000154,Blackberries,Driscoll's,CAT003,Produce,Berries,SUP014,Fresh Choice Farms,170 g,4.29,5.99,28,0,18,Active
+P000155,PRO-0025,62210000155,Organic Blueberries,BC Fresh,CAT003,Produce,Berries,SUP014,Fresh Choice Farms,300 g,4.99,6.99,29,0,15,Active
+P000156,PRO-0026,62210000156,Organic Strawberries,BC Fresh,CAT003,Produce,Berries,SUP014,Fresh Choice Farms,454 g,5.49,7.69,29,0,15,Active
+P000157,PRO-0027,62210000157,Mixed Berries,BC Fresh,CAT003,Produce,Berries,SUP003,Pacific Produce Ltd.,400 g,5.29,7.49,29,0,15,Active
+P000158,PRO-0028,62210000158,Cranberries,Ocean Spray,CAT003,Produce,Berries,SUP003,Pacific Produce Ltd.,340 g,2.99,4.29,30,0,20,Active
+P000159,PRO-0029,62210000159,Green Seedless Grapes,BC Fresh,CAT003,Produce,Grapes,SUP003,Pacific Produce Ltd.,kg,3.49,4.99,30,0,30,Active
+P000160,PRO-0030,62210000160,Red Seedless Grapes,BC Fresh,CAT003,Produce,Grapes,SUP014,Fresh Choice Farms,kg,3.69,5.29,30,0,30,Active
+P000161,PRO-0031,62210000161,Black Grapes,BC Fresh,CAT003,Produce,Grapes,SUP014,Fresh Choice Farms,kg,3.79,5.39,30,0,25,Active
+P000162,PRO-0032,62210000162,Cotton Candy Grapes,BC Fresh,CAT003,Produce,Grapes,SUP014,Fresh Choice Farms,500 g,5.99,8.49,29,0,15,Active
+P000163,PRO-0033,62210000163,Organic Green Grapes,BC Fresh,CAT003,Produce,Grapes,SUP014,Fresh Choice Farms,500 g,5.29,7.49,29,0,15,Active
+P000164,PRO-0034,62210000164,Organic Red Grapes,BC Fresh,CAT003,Produce,Grapes,SUP014,Fresh Choice Farms,500 g,5.29,7.49,29,0,15,Active
+P000165,PRO-0035,62210000165,Green Kiwi,Zespri,CAT003,Produce,Kiwi,SUP003,Pacific Produce Ltd.,Each,0.99,1.49,34,0,40,Active
+P000166,PRO-0036,62210000166,Gold Kiwi,Zespri,CAT003,Produce,Kiwi,SUP003,Pacific Produce Ltd.,Each,1.19,1.79,33,0,35,Active
+P000167,PRO-0037,62210000167,Pineapple,Dole,CAT003,Produce,Tropical Fruit,SUP003,Pacific Produce Ltd.,Each,3.49,4.99,30,0,20,Active
+P000168,PRO-0038,62210000168,Mango,Dole,CAT003,Produce,Tropical Fruit,SUP014,Fresh Choice Farms,Each,1.99,2.99,33,0,30,Active
+P000169,PRO-0039,62210000169,Lemons,BC Fresh,CAT003,Produce,Citrus,SUP003,Pacific Produce Ltd.,2 lb Bag,3.29,4.79,31,0,25,Active
+P000170,PRO-0040,62210000170,Limes,BC Fresh,CAT003,Produce,Citrus,SUP014,Fresh Choice Farms,1 lb Bag,2.99,4.29,30,0,25,Active
+P000171,PRO-0041,62210000171,Iceberg Lettuce,BC Fresh,CAT003,Produce,Leafy Greens,SUP014,Fresh Choice Farms,Each,1.69,2.49,32,0,30,Active
+P000172,PRO-0042,62210000172,Romaine Hearts,BC Fresh,CAT003,Produce,Leafy Greens,SUP014,Fresh Choice Farms,3 Pack,2.99,4.29,30,0,25,Active
+P000173,PRO-0043,62210000173,Baby Spinach,BC Fresh,CAT003,Produce,Leafy Greens,SUP003,Pacific Produce Ltd.,312 g,3.29,4.69,30,0,20,Active
+P000174,PRO-0044,62210000174,Kale,BC Fresh,CAT003,Produce,Leafy Greens,SUP003,Pacific Produce Ltd.,300 g,2.49,3.69,33,0,20,Active
+P000175,PRO-0045,62210000175,Spring Mix,BC Fresh,CAT003,Produce,Leafy Greens,SUP014,Fresh Choice Farms,312 g,3.69,5.29,30,0,20,Active
+P000176,PRO-0046,62210000176,Arugula,BC Fresh,CAT003,Produce,Leafy Greens,SUP014,Fresh Choice Farms,142 g,2.99,4.29,30,0,15,Active
+P000177,PRO-0047,62210000177,Green Leaf Lettuce,BC Fresh,CAT003,Produce,Leafy Greens,SUP003,Pacific Produce Ltd.,Each,1.79,2.59,31,0,25,Active
+P000178,PRO-0048,62210000178,Red Leaf Lettuce,BC Fresh,CAT003,Produce,Leafy Greens,SUP003,Pacific Produce Ltd.,Each,1.79,2.59,31,0,25,Active
+P000179,PRO-0049,62210000179,Roma Tomatoes,BC Fresh,CAT003,Produce,Tomatoes,SUP003,Pacific Produce Ltd.,kg,2.49,3.69,32,0,40,Active
+P000180,PRO-0050,62210000180,Vine Tomatoes,BC Fresh,CAT003,Produce,Tomatoes,SUP014,Fresh Choice Farms,kg,2.99,4.29,30,0,35,Active
+P000181,PRO-0051,62210000181,Russet Potatoes,BC Fresh,CAT003,Produce,Potatoes,SUP003,Pacific Produce Ltd.,10 lb Bag,5.49,7.99,31,0,25,Active
+P000182,PRO-0052,62210000182,Red Potatoes,BC Fresh,CAT003,Produce,Potatoes,SUP014,Fresh Choice Farms,5 lb Bag,4.49,6.49,31,0,25,Active
+P000183,PRO-0053,62210000183,Yukon Gold Potatoes,BC Fresh,CAT003,Produce,Potatoes,SUP014,Fresh Choice Farms,5 lb Bag,4.79,6.99,32,0,25,Active
+P000184,PRO-0054,62210000184,Baby Potatoes,BC Fresh,CAT003,Produce,Potatoes,SUP003,Pacific Produce Ltd.,1.5 lb Bag,3.99,5.69,30,0,20,Active
+P000185,PRO-0055,62210000185,Sweet Potatoes,BC Fresh,CAT003,Produce,Potatoes,SUP014,Fresh Choice Farms,kg,2.49,3.69,32,0,35,Active
+P000186,PRO-0056,62210000186,White Onions,BC Fresh,CAT003,Produce,Onions,SUP003,Pacific Produce Ltd.,3 lb Bag,2.99,4.29,30,0,30,Active
+P000187,PRO-0057,62210000187,Yellow Onions,BC Fresh,CAT003,Produce,Onions,SUP014,Fresh Choice Farms,3 lb Bag,2.89,4.19,31,0,30,Active
+P000188,PRO-0058,62210000188,Red Onions,BC Fresh,CAT003,Produce,Onions,SUP014,Fresh Choice Farms,2 lb Bag,3.29,4.79,31,0,25,Active
+P000189,PRO-0059,62210000189,Green Onions,BC Fresh,CAT003,Produce,Onions,SUP003,Pacific Produce Ltd.,Bunch,1.29,1.99,35,0,40,Active
+P000190,PRO-0060,62210000190,Green Bell Peppers,BC Fresh,CAT003,Produce,Peppers,SUP003,Pacific Produce Ltd.,Each,1.29,1.89,32,0,40,Active
+P000191,PRO-0061,62210000191,Red Bell Peppers,BC Fresh,CAT003,Produce,Peppers,SUP014,Fresh Choice Farms,Each,1.69,2.49,32,0,35,Active
+P000192,PRO-0062,62210000192,Yellow Bell Peppers,BC Fresh,CAT003,Produce,Peppers,SUP014,Fresh Choice Farms,Each,1.69,2.49,32,0,35,Active
+P000193,PRO-0063,62210000193,Orange Bell Peppers,BC Fresh,CAT003,Produce,Peppers,SUP003,Pacific Produce Ltd.,Each,1.69,2.49,32,0,35,Active
+P000194,PRO-0064,62210000194,Fresh Cilantro,BC Fresh,CAT003,Produce,Herbs,SUP003,Pacific Produce Ltd.,Bunch,1.49,2.19,32,0,30,Active
+P000195,PRO-0065,62210000195,Fresh Parsley,BC Fresh,CAT003,Produce,Herbs,SUP014,Fresh Choice Farms,Bunch,1.49,2.19,32,0,30,Active
+P000196,PRO-0066,62210000196,Fresh Mint,BC Fresh,CAT003,Produce,Herbs,SUP014,Fresh Choice Farms,Bunch,1.69,2.49,32,0,25,Active
+P000197,PRO-0067,62210000197,Fresh Basil,BC Fresh,CAT003,Produce,Herbs,SUP003,Pacific Produce Ltd.,Bunch,1.79,2.59,31,0,25,Active
+P000198,PRO-0068,62210000198,English Cucumber,BC Fresh,CAT003,Produce,Vegetables,SUP003,Pacific Produce Ltd.,Each,1.29,1.89,32,0,40,Active
+P000199,PRO-0069,62210000199,Mini Cucumbers,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,6 Pack,2.99,4.29,30,0,20,Active
+P000200,PRO-0070,62210000200,Carrots,BC Fresh,CAT003,Produce,Vegetables,SUP003,Pacific Produce Ltd.,2 lb Bag,2.29,3.29,30,0,35,Active
+P000201,PRO-0071,62210000201,Celery,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,Each,2.19,3.19,31,0,25,Active
+P000202,PRO-0072,62210000202,Broccoli,BC Fresh,CAT003,Produce,Vegetables,SUP003,Pacific Produce Ltd.,Each,2.29,3.29,30,0,30,Active
+P000203,PRO-0073,62210000203,Cauliflower,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,Each,3.29,4.79,31,0,20,Active
+P000204,PRO-0074,62210000204,Green Cabbage,BC Fresh,CAT003,Produce,Vegetables,SUP003,Pacific Produce Ltd.,Each,2.19,3.19,31,0,25,Active
+P000205,PRO-0075,62210000205,Red Cabbage,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,Each,2.49,3.59,31,0,20,Active
+P000206,PRO-0076,62210000206,White Mushrooms,BC Fresh,CAT003,Produce,Vegetables,SUP003,Pacific Produce Ltd.,227 g,2.99,4.29,30,0,20,Active
+P000207,PRO-0077,62210000207,Cremini Mushrooms,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,227 g,3.29,4.69,30,0,20,Active
+P000208,PRO-0078,62210000208,Zucchini,BC Fresh,CAT003,Produce,Vegetables,SUP003,Pacific Produce Ltd.,kg,2.49,3.69,32,0,30,Active
+P000209,PRO-0079,62210000209,Eggplant,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,Each,2.49,3.69,32,0,25,Active
+P000210,PRO-0080,62210000210,Brussels Sprouts,BC Fresh,CAT003,Produce,Vegetables,SUP014,Fresh Choice Farms,454 g,3.99,5.69,30,0,18,Active
+P000211,FRZ-0001,62210000211,Pepperoni Pizza,Dr. Oetker,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,520 g,5.99,8.99,33,1,20,Active
+P000212,FRZ-0002,62210000212,Deluxe Pizza,Dr. Oetker,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,540 g,6.29,9.29,32,1,20,Active
+P000213,FRZ-0003,62210000213,Four Cheese Pizza,Giuseppe,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,560 g,6.49,9.49,32,1,18,Active
+P000214,FRZ-0004,62210000214,Hawaiian Pizza,Giuseppe,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,560 g,6.49,9.49,32,1,18,Active
+P000215,FRZ-0005,62210000215,Meat Lovers Pizza,Dr. Oetker,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,600 g,6.99,9.99,30,1,18,Active
+P000216,FRZ-0006,62210000216,Supreme Pizza,Giuseppe,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,580 g,6.79,9.79,31,1,18,Active
+P000217,FRZ-0007,62210000217,Thin Crust Margherita Pizza,Dr. Oetker,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,500 g,5.79,8.79,34,1,20,Active
+P000218,FRZ-0008,62210000218,BBQ Chicken Pizza,Giuseppe,CAT004,Frozen Foods,Frozen Pizza,SUP004,Arctic Frozen Foods,570 g,6.89,9.99,31,1,18,Active
+P000219,FRZ-0009,62210000219,Mixed Vegetables,Green Giant,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.49,4.99,30,1,25,Active
+P000220,FRZ-0010,62210000220,Peas & Carrots,Green Giant,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.29,4.79,31,1,25,Active
+P000221,FRZ-0011,62210000221,Broccoli Florets,Arctic Gardens,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.69,5.29,30,1,20,Active
+P000222,FRZ-0012,62210000222,Cauliflower,Arctic Gardens,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.69,5.29,30,1,20,Active
+P000223,FRZ-0013,62210000223,Sweet Corn,Green Giant,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.29,4.79,31,1,25,Active
+P000224,FRZ-0014,62210000224,Stir Fry Mix,Arctic Gardens,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.99,5.69,30,1,18,Active
+P000225,FRZ-0015,62210000225,California Blend,Green Giant,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.89,5.59,30,1,18,Active
+P000226,FRZ-0016,62210000226,Vegetable Medley,Arctic Gardens,CAT004,Frozen Foods,Frozen Vegetables,SUP004,Arctic Frozen Foods,750 g,3.99,5.79,31,1,18,Active
+P000227,FRZ-0017,62210000227,Frozen Blueberries,BC Fresh,CAT004,Frozen Foods,Frozen Fruits,SUP004,Arctic Frozen Foods,600 g,5.29,7.49,29,1,15,Active
+P000228,FRZ-0018,62210000228,Frozen Strawberries,BC Fresh,CAT004,Frozen Foods,Frozen Fruits,SUP004,Arctic Frozen Foods,600 g,4.99,6.99,29,1,15,Active
+P000229,FRZ-0019,62210000229,Frozen Mango Chunks,Dole,CAT004,Frozen Foods,Frozen Fruits,SUP004,Arctic Frozen Foods,600 g,5.49,7.79,29,1,15,Active
+P000230,FRZ-0020,62210000230,Frozen Mixed Berries,BC Fresh,CAT004,Frozen Foods,Frozen Fruits,SUP004,Arctic Frozen Foods,600 g,5.69,7.99,29,1,15,Active
+P000231,FRZ-0021,62210000231,Vanilla Ice Cream,Chapman's,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,2 L,5.99,8.49,29,1,15,Active
+P000232,FRZ-0022,62210000232,Chocolate Ice Cream,Chapman's,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,2 L,5.99,8.49,29,1,15,Active
+P000233,FRZ-0023,62210000233,French Vanilla Ice Cream,Breyers,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,1.66 L,6.29,8.99,30,1,15,Active
+P000234,FRZ-0024,62210000234,Cookies & Cream Ice Cream,Breyers,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,1.66 L,6.49,9.29,30,1,15,Active
+P000235,FRZ-0025,62210000235,Chocolate Fudge Brownie,Ben & Jerry's,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,473 mL,5.99,7.99,25,1,12,Active
+P000236,FRZ-0026,62210000236,Cherry Garcia,Ben & Jerry's,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,473 mL,5.99,7.99,25,1,12,Active
+P000237,FRZ-0027,62210000237,Vanilla Bean Ice Cream,Häagen-Dazs,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,450 mL,6.49,8.99,28,1,12,Active
+P000238,FRZ-0028,62210000238,Belgian Chocolate Ice Cream,Häagen-Dazs,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,450 mL,6.49,8.99,28,1,12,Active
+P000239,FRZ-0029,62210000239,Strawberry Ice Cream,Chapman's,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,2 L,5.99,8.49,29,1,15,Active
+P000240,FRZ-0030,62210000240,Mint Chocolate Chip Ice Cream,Breyers,CAT004,Frozen Foods,Ice Cream,SUP004,Arctic Frozen Foods,1.66 L,6.49,9.29,30,1,15,Active
+P000241,FRZ-0031,62210000241,Superfries Straight Cut,McCain,CAT004,Frozen Foods,Frozen Fries,SUP004,Arctic Frozen Foods,900 g,3.99,5.79,31,1,20,Active
+P000242,FRZ-0032,62210000242,Superfries Crinkle Cut,McCain,CAT004,Frozen Foods,Frozen Fries,SUP004,Arctic Frozen Foods,900 g,3.99,5.79,31,1,20,Active
+P000243,FRZ-0033,62210000243,Waffle Fries,Cavendish,CAT004,Frozen Foods,Frozen Fries,SUP004,Arctic Frozen Foods,750 g,4.19,5.99,30,1,18,Active
+P000244,FRZ-0034,62210000244,Restaurant Style Fries,Cavendish,CAT004,Frozen Foods,Frozen Fries,SUP004,Arctic Frozen Foods,750 g,4.29,6.19,31,1,18,Active
+P000245,FRZ-0035,62210000245,Sweet Potato Fries,McCain,CAT004,Frozen Foods,Frozen Fries,SUP004,Arctic Frozen Foods,750 g,4.49,6.49,31,1,18,Active
+P000246,FRZ-0036,62210000246,Seasoned Potato Wedges,McCain,CAT004,Frozen Foods,Frozen Fries,SUP004,Arctic Frozen Foods,750 g,4.39,6.29,30,1,18,Active
+P000247,FRZ-0037,62210000247,Breaded Cod Fillets,High Liner,CAT004,Frozen Foods,Frozen Seafood,SUP004,Arctic Frozen Foods,500 g,7.49,10.99,32,1,15,Active
+P000248,FRZ-0038,62210000248,Fish Sticks,High Liner,CAT004,Frozen Foods,Frozen Seafood,SUP004,Arctic Frozen Foods,600 g,6.49,9.49,32,1,15,Active
+P000249,FRZ-0039,62210000249,Breaded Shrimp,High Liner,CAT004,Frozen Foods,Frozen Seafood,SUP004,Arctic Frozen Foods,400 g,8.49,11.99,29,1,12,Active
+P000250,FRZ-0040,62210000250,Wild Salmon Portions,High Liner,CAT004,Frozen Foods,Frozen Seafood,SUP004,Arctic Frozen Foods,500 g,9.99,13.99,29,1,12,Active
+P000251,FRZ-0041,62210000251,Chicken Strips,Jane's,CAT004,Frozen Foods,Frozen Chicken,SUP004,Arctic Frozen Foods,700 g,8.49,11.99,29,1,15,Active
+P000252,FRZ-0042,62210000252,Chicken Nuggets,Jane's,CAT004,Frozen Foods,Frozen Chicken,SUP004,Arctic Frozen Foods,700 g,7.99,11.49,30,1,15,Active
+P000253,FRZ-0043,62210000253,Buffalo Chicken Bites,Pinty's,CAT004,Frozen Foods,Frozen Chicken,SUP004,Arctic Frozen Foods,600 g,8.99,12.99,31,1,12,Active
+P000254,FRZ-0044,62210000254,Chicken Burgers,Jane's,CAT004,Frozen Foods,Frozen Chicken,SUP004,Arctic Frozen Foods,800 g,8.79,12.49,30,1,15,Active
+P000255,FRZ-0045,62210000255,Breaded Chicken Breast,Pinty's,CAT004,Frozen Foods,Frozen Chicken,SUP004,Arctic Frozen Foods,700 g,9.29,13.29,30,1,12,Active
+P000256,FRZ-0046,62210000256,Popcorn Chicken,Jane's,CAT004,Frozen Foods,Frozen Chicken,SUP004,Arctic Frozen Foods,650 g,7.99,11.49,30,1,15,Active
+P000257,FRZ-0047,62210000257,Classic Lasagna,Stouffer's,CAT004,Frozen Foods,Frozen Meals,SUP004,Arctic Frozen Foods,900 g,8.99,12.99,31,1,12,Active
+P000258,FRZ-0048,62210000258,Chicken Alfredo,Lean Cuisine,CAT004,Frozen Foods,Frozen Meals,SUP004,Arctic Frozen Foods,340 g,3.99,5.99,33,1,20,Active
+P000259,FRZ-0049,62210000259,Mac & Cheese,Michelina's,CAT004,Frozen Foods,Frozen Meals,SUP004,Arctic Frozen Foods,255 g,2.99,4.49,33,1,20,Active
+P000260,FRZ-0050,62210000260,Butter Chicken,Stouffer's,CAT004,Frozen Foods,Frozen Meals,SUP004,Arctic Frozen Foods,400 g,5.49,7.99,31,1,15,Active
+P000261,FRZ-0051,62210000261,Beef Shepherd's Pie,Stouffer's,CAT004,Frozen Foods,Frozen Meals,SUP004,Arctic Frozen Foods,400 g,5.69,8.19,31,1,15,Active
+P000262,FRZ-0052,62210000262,Vegetable Pasta,Lean Cuisine,CAT004,Frozen Foods,Frozen Meals,SUP004,Arctic Frozen Foods,320 g,3.89,5.79,33,1,18,Active
+P000263,FRZ-0053,62210000263,Mozzarella Sticks,McCain,CAT004,Frozen Foods,Frozen Appetizers,SUP004,Arctic Frozen Foods,454 g,5.29,7.59,30,1,15,Active
+P000264,FRZ-0054,62210000264,Jalapeño Poppers,McCain,CAT004,Frozen Foods,Frozen Appetizers,SUP004,Arctic Frozen Foods,400 g,5.49,7.99,31,1,15,Active
+P000265,FRZ-0055,62210000265,Spring Rolls,Arctic Gardens,CAT004,Frozen Foods,Frozen Appetizers,SUP004,Arctic Frozen Foods,500 g,5.19,7.49,31,1,15,Active
+P000266,FRZ-0056,62210000266,Mini Quiche,Arctic Gardens,CAT004,Frozen Foods,Frozen Appetizers,SUP004,Arctic Frozen Foods,340 g,5.39,7.79,31,1,12,Active
+P000267,FRZ-0057,62210000267,Buttermilk Pancakes,Eggo,CAT004,Frozen Foods,Frozen Breakfast,SUP004,Arctic Frozen Foods,560 g,4.29,6.29,32,1,15,Active
+P000268,FRZ-0058,62210000268,Homestyle Waffles,Eggo,CAT004,Frozen Foods,Frozen Breakfast,SUP004,Arctic Frozen Foods,560 g,4.29,6.29,32,1,15,Active
+P000269,FRZ-0059,62210000269,French Toast Sticks,Eggo,CAT004,Frozen Foods,Frozen Breakfast,SUP004,Arctic Frozen Foods,500 g,4.49,6.49,31,1,15,Active
+P000270,FRZ-0060,62210000270,Breakfast Sandwiches,Jimmy Dean,CAT004,Frozen Foods,Frozen Breakfast,SUP004,Arctic Frozen Foods,4 Pack,6.49,9.49,32,1,12,Active
+P000271,BEV-0001,62210000271,Coca-Cola,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,2 L,2.29,3.49,34,1,40,Active
+P000272,BEV-0002,62210000272,Diet Coke,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,2 L,2.29,3.49,34,1,40,Active
+P000273,BEV-0003,62210000273,Coke Zero Sugar,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,2 L,2.29,3.49,34,1,40,Active
+P000274,BEV-0004,62210000274,Sprite,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,2 L,2.29,3.49,34,1,40,Active
+P000275,BEV-0005,62210000275,Fanta Orange,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,2 L,2.29,3.49,34,1,35,Active
+P000276,BEV-0006,62210000276,Pepsi,Pepsi,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,2 L,2.29,3.49,34,1,40,Active
+P000277,BEV-0007,62210000277,Diet Pepsi,Pepsi,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,2 L,2.29,3.49,34,1,40,Active
+P000278,BEV-0008,62210000278,Pepsi Zero Sugar,Pepsi,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,2 L,2.29,3.49,34,1,35,Active
+P000279,BEV-0009,62210000279,7UP,7UP,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,2 L,2.29,3.49,34,1,35,Active
+P000280,BEV-0010,62210000280,Mountain Dew,Pepsi,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,2 L,2.39,3.59,33,1,35,Active
+P000281,BEV-0011,62210000281,Canada Dry Ginger Ale,Canada Dry,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,2 L,2.39,3.59,33,1,35,Active
+P000282,BEV-0012,62210000282,Dr Pepper,Dr Pepper,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,2 L,2.49,3.69,33,1,30,Active
+P000283,BEV-0013,62210000283,Schweppes Club Soda,Schweppes,CAT005,Beverages,Sparkling Water,SUP005,West Coast Beverages,1 L,1.69,2.49,32,1,30,Active
+P000284,BEV-0014,62210000284,Perrier Sparkling Water,Perrier,CAT005,Beverages,Sparkling Water,SUP005,West Coast Beverages,750 mL,2.29,3.29,30,1,25,Active
+P000285,BEV-0015,62210000285,San Pellegri0 Sparkling Water,San Pellegri0,CAT005,Beverages,Sparkling Water,SUP005,West Coast Beverages,750 mL,2.49,3.59,31,1,25,Active
+P000286,BEV-0016,62210000286,Bubly Lime Sparkling Water,Bubly,CAT005,Beverages,Sparkling Water,SUP016,Peak Beverage Co.,12 Pack,5.49,7.99,31,1,20,Active
+P000287,BEV-0017,62210000287,Bubly Blackberry Sparkling Water,Bubly,CAT005,Beverages,Sparkling Water,SUP016,Peak Beverage Co.,12 Pack,5.49,7.99,31,1,20,Active
+P000288,BEV-0018,62210000288,Dasani Water,Dasani,CAT005,Beverages,Bottled Water,SUP005,West Coast Beverages,24 Pack,4.99,7.49,33,1,30,Active
+P000289,BEV-0019,62210000289,Aquafina Water,Aquafina,CAT005,Beverages,Bottled Water,SUP016,Peak Beverage Co.,24 Pack,4.99,7.49,33,1,20,Active
+P000290,BEV-0020,62210000290,Nestlé Pure Life Water,Nestlé,CAT005,Beverages,Bottled Water,SUP005,West Coast Beverages,24 Pack,4.99,7.49,33,1,30,Active
+P000291,BEV-0021,62210000291,Fiji Natural Water,Fiji,CAT005,Beverages,Bottled Water,SUP005,West Coast Beverages,500 mL,1.89,2.79,32,1,25,Active
+P000292,BEV-0022,62210000292,Evian Natural Water,Evian,CAT005,Beverages,Bottled Water,SUP005,West Coast Beverages,1 L,2.49,3.69,33,1,20,Active
+P000293,BEV-0023,62210000293,Gatorade Fruit Punch,Gatorade,CAT005,Beverages,Sports Drinks,SUP016,Peak Beverage Co.,710 mL,1.99,2.99,33,1,35,Active
+P000294,BEV-0024,62210000294,Gatorade Cool Blue,Gatorade,CAT005,Beverages,Sports Drinks,SUP016,Peak Beverage Co.,710 mL,1.99,2.99,33,1,35,Active
+P000295,BEV-0025,62210000295,Gatorade Lemon Lime,Gatorade,CAT005,Beverages,Sports Drinks,SUP016,Peak Beverage Co.,710 mL,1.99,2.99,33,1,35,Active
+P000296,BEV-0026,62210000296,Powerade Mountain Berry,Powerade,CAT005,Beverages,Sports Drinks,SUP005,West Coast Beverages,710 mL,1.89,2.89,35,1,35,Active
+P000297,BEV-0027,62210000297,Powerade Mixed Berry,Powerade,CAT005,Beverages,Sports Drinks,SUP005,West Coast Beverages,710 mL,1.89,2.89,35,1,35,Active
+P000298,BEV-0028,62210000298,Red Bull Energy Drink,Red Bull,CAT005,Beverages,Energy Drinks,SUP016,Peak Beverage Co.,250 mL,2.19,3.49,37,1,30,Active
+P000299,BEV-0029,62210000299,Red Bull Sugar Free,Red Bull,CAT005,Beverages,Energy Drinks,SUP016,Peak Beverage Co.,250 mL,2.19,3.49,37,1,30,Active
+P000300,BEV-0030,62210000300,Monster Energy Original,Monster,CAT005,Beverages,Energy Drinks,SUP016,Peak Beverage Co.,473 mL,2.69,4.29,37,1,30,Active
+P000301,BEV-0031,62210000301,Monster Ultra,Monster,CAT005,Beverages,Energy Drinks,SUP016,Peak Beverage Co.,473 mL,2.69,4.29,37,1,30,Active
+P000302,BEV-0032,62210000302,Rockstar Original,Rockstar,CAT005,Beverages,Energy Drinks,SUP016,Peak Beverage Co.,473 mL,2.59,4.19,38,1,25,Active
+P000303,BEV-0033,62210000303,Rockstar Sugar Free,Rockstar,CAT005,Beverages,Energy Drinks,SUP016,Peak Beverage Co.,473 mL,2.59,4.19,38,1,25,Active
+P000304,BEV-0034,62210000304,Tropicana Orange Juice,Tropicana,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.54 L,4.49,6.49,31,1,20,Active
+P000305,BEV-0035,62210000305,Tropicana Apple Juice,Tropicana,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.54 L,4.29,6.29,32,1,20,Active
+P000306,BEV-0036,62210000306,Simply Orange Juice,Simply,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.54 L,4.79,6.99,32,1,18,Active
+P000307,BEV-0037,62210000307,Simply Lemonade,Simply,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.54 L,4.79,6.99,32,1,18,Active
+P000308,BEV-0038,62210000308,Ocean Spray Cranberry Juice,Ocean Spray,CAT005,Beverages,Juice,SUP016,Peak Beverage Co.,1.89 L,3.99,5.79,31,1,20,Active
+P000309,BEV-0039,62210000309,Ocean Spray Cran-Grape Juice,Ocean Spray,CAT005,Beverages,Juice,SUP016,Peak Beverage Co.,1.89 L,3.99,5.79,31,1,20,Active
+P000310,BEV-0040,62210000310,Oasis Tropical Juice,Oasis,CAT005,Beverages,Juice,SUP016,Peak Beverage Co.,1.89 L,3.89,5.69,32,1,20,Active
+P000311,BEV-0041,62210000311,Tim Hortons Original Coffee,Tim Hortons,CAT005,Beverages,Coffee,SUP005,West Coast Beverages,300 g,7.99,11.49,30,1,15,Active
+P000312,BEV-0042,62210000312,Tim Hortons Dark Roast Coffee,Tim Hortons,CAT005,Beverages,Coffee,SUP005,West Coast Beverages,300 g,8.29,11.99,31,1,15,Active
+P000313,BEV-0043,62210000313,Maxwell House Original Coffee,Maxwell House,CAT005,Beverages,Coffee,SUP016,Peak Beverage Co.,326 g,7.49,10.99,32,1,15,Active
+P000314,BEV-0044,62210000314,Folgers Classic Roast,Folgers,CAT005,Beverages,Coffee,SUP016,Peak Beverage Co.,326 g,7.79,11.29,31,1,15,Active
+P000315,BEV-0045,62210000315,Nescafé Rich Instant Coffee,Nescafé,CAT005,Beverages,Coffee,SUP005,West Coast Beverages,170 g,6.49,9.49,32,1,18,Active
+P000316,BEV-0046,62210000316,Starbucks Pike Place Coffee,Starbucks,CAT005,Beverages,Coffee,SUP016,Peak Beverage Co.,340 g,10.99,15.99,31,1,12,Active
+P000317,BEV-0047,62210000317,Starbucks Espresso Roast,Starbucks,CAT005,Beverages,Coffee,SUP016,Peak Beverage Co.,340 g,11.49,16.49,30,1,12,Active
+P000318,BEV-0048,62210000318,Tim Hortons French Vanilla Cappucci0,Tim Hortons,CAT005,Beverages,Coffee,SUP005,West Coast Beverages,454 g,8.99,12.99,31,1,15,Active
+P000319,BEV-0049,62210000319,Starbucks Frappucci0 Mocha,Starbucks,CAT005,Beverages,Ready-to-Drink Coffee,SUP016,Peak Beverage Co.,405 mL,2.99,4.49,33,1,25,Active
+P000320,BEV-0050,62210000320,Starbucks Frappucci0 Vanilla,Starbucks,CAT005,Beverages,Ready-to-Drink Coffee,SUP016,Peak Beverage Co.,405 mL,2.99,4.49,33,1,25,Active
+P000321,BEV-0051,62210000321,Starbucks Doubleshot Espresso,Starbucks,CAT005,Beverages,Ready-to-Drink Coffee,SUP016,Peak Beverage Co.,444 mL,3.29,4.99,34,1,20,Active
+P000322,BEV-0052,62210000322,Tim Hortons Iced Coffee,Tim Hortons,CAT005,Beverages,Ready-to-Drink Coffee,SUP005,West Coast Beverages,341 mL,2.49,3.79,34,1,25,Active
+P000323,BEV-0053,62210000323,Pure Leaf Lemon Iced Tea,Pure Leaf,CAT005,Beverages,Iced Tea,SUP016,Peak Beverage Co.,547 mL,2.19,3.29,33,1,25,Active
+P000324,BEV-0054,62210000324,Pure Leaf Peach Iced Tea,Pure Leaf,CAT005,Beverages,Iced Tea,SUP016,Peak Beverage Co.,547 mL,2.19,3.29,33,1,25,Active
+P000325,BEV-0055,62210000325,Nestea Lemon Iced Tea,Nestea,CAT005,Beverages,Iced Tea,SUP005,West Coast Beverages,2 L,2.49,3.79,34,1,25,Active
+P000326,BEV-0056,62210000326,Arizona Green Tea,Arizona,CAT005,Beverages,Iced Tea,SUP016,Peak Beverage Co.,680 mL,1.79,2.79,36,1,30,Active
+P000327,BEV-0057,62210000327,Lipton Green Tea,Lipton,CAT005,Beverages,Tea,SUP005,West Coast Beverages,100 Bags,5.99,8.79,32,1,18,Active
+P000328,BEV-0058,62210000328,Tetley Orange Pekoe Tea,Tetley,CAT005,Beverages,Tea,SUP005,West Coast Beverages,80 Bags,5.49,7.99,31,1,18,Active
+P000329,BEV-0059,62210000329,Twinings English Breakfast Tea,Twinings,CAT005,Beverages,Tea,SUP016,Peak Beverage Co.,20 Bags,4.29,6.29,32,1,18,Active
+P000330,BEV-0060,62210000330,GT's Gingerade Kombucha,GT's,CAT005,Beverages,Kombucha,SUP016,Peak Beverage Co.,480 mL,3.49,4.99,30,1,15,Active
+P000331,BEV-0061,62210000331,GT's Trilogy Kombucha,GT's,CAT005,Beverages,Kombucha,SUP016,Peak Beverage Co.,480 mL,3.49,4.99,30,1,15,Active
+P000332,BEV-0062,62210000332,Rise Ginger Kombucha,Rise,CAT005,Beverages,Kombucha,SUP016,Peak Beverage Co.,414 mL,3.29,4.79,31,1,15,Active
+P000333,BEV-0063,62210000333,Rise Lime Kombucha,Rise,CAT005,Beverages,Kombucha,SUP016,Peak Beverage Co.,414 mL,3.29,4.79,31,1,15,Active
+P000334,BEV-0064,62210000334,Starbucks Cold Brew Black,Starbucks,CAT005,Beverages,Cold Brew Coffee,SUP016,Peak Beverage Co.,325 mL,3.29,4.79,31,1,18,Active
+P000335,BEV-0065,62210000335,Starbucks Cold Brew Vanilla,Starbucks,CAT005,Beverages,Cold Brew Coffee,SUP016,Peak Beverage Co.,325 mL,3.29,4.79,31,1,18,Active
+P000336,BEV-0066,62210000336,Nescafé Iced Latte,Nescafé,CAT005,Beverages,Ready-to-Drink Coffee,SUP005,West Coast Beverages,240 mL,2.49,3.79,34,1,20,Active
+P000337,BEV-0067,62210000337,Nescafé Mocha Latte,Nescafé,CAT005,Beverages,Ready-to-Drink Coffee,SUP005,West Coast Beverages,240 mL,2.49,3.79,34,1,20,Active
+P000338,BEV-0068,62210000338,Coconut Water,Vita Coco,CAT005,Beverages,Coconut Water,SUP016,Peak Beverage Co.,1 L,3.99,5.79,31,1,20,Active
+P000339,BEV-0069,62210000339,Pineapple Coconut Water,Vita Coco,CAT005,Beverages,Coconut Water,SUP016,Peak Beverage Co.,500 mL,2.79,3.99,30,1,20,Active
+P000340,BEV-0070,62210000340,Cranberry Cocktail,Ocean Spray,CAT005,Beverages,Juice,SUP016,Peak Beverage Co.,1.89 L,3.99,5.79,31,1,20,Active
+P000341,BEV-0071,62210000341,Mango Juice,Oasis,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.89 L,3.89,5.69,32,1,20,Active
+P000342,BEV-0072,62210000342,Fruit Punch,Oasis,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.89 L,3.89,5.69,32,1,20,Active
+P000343,BEV-0073,62210000343,Apple Juice,Oasis,CAT005,Beverages,Juice,SUP005,West Coast Beverages,1.89 L,3.89,5.69,32,1,20,Active
+P000344,BEV-0074,62210000344,Lemon Sparkling Water,Bubly,CAT005,Beverages,Sparkling Water,SUP016,Peak Beverage Co.,12 Pack,5.49,7.99,31,1,18,Active
+P000345,BEV-0075,62210000345,Cherry Sparkling Water,Bubly,CAT005,Beverages,Sparkling Water,SUP016,Peak Beverage Co.,12 Pack,5.49,7.99,31,1,18,Active
+P000346,BEV-0076,62210000346,Grapefruit Sparkling Water,Bubly,CAT005,Beverages,Sparkling Water,SUP016,Peak Beverage Co.,12 Pack,5.49,7.99,31,1,18,Active
+P000347,BEV-0077,62210000347,Smartwater,Smartwater,CAT005,Beverages,Bottled Water,SUP005,West Coast Beverages,1 L,2.49,3.69,32,1,20,Active
+P000348,BEV-0078,62210000348,Smartwater Alkaline,Smartwater,CAT005,Beverages,Bottled Water,SUP005,West Coast Beverages,1 L,2.69,3.89,31,1,20,Active
+P000349,BEV-0079,62210000349,Perrier Lime Sparkling Water,Perrier,CAT005,Beverages,Sparkling Water,SUP005,West Coast Beverages,330 mL,1.69,2.49,32,1,20,Active
+P000350,BEV-0080,62210000350,Perrier Peach Sparkling Water,Perrier,CAT005,Beverages,Sparkling Water,SUP005,West Coast Beverages,330 mL,1.69,2.49,32,1,20,Active
+P000351,BEV-0081,62210000351,Nestea Green Tea,Nestea,CAT005,Beverages,Iced Tea,SUP005,West Coast Beverages,2 L,2.49,3.79,34,1,20,Active
+P000352,BEV-0082,62210000352,Arizona Ar0ld Palmer,Arizona,CAT005,Beverages,Iced Tea,SUP016,Peak Beverage Co.,680 mL,1.79,2.79,36,1,25,Active
+P000353,BEV-0083,62210000353,Lipton Lemon Tea,Lipton,CAT005,Beverages,Tea,SUP005,West Coast Beverages,100 Bags,5.99,8.79,32,1,18,Active
+P000354,BEV-0084,62210000354,Lipton Chamomile Tea,Lipton,CAT005,Beverages,Tea,SUP005,West Coast Beverages,20 Bags,3.99,5.99,33,1,18,Active
+P000355,BEV-0085,62210000355,Twinings Earl Grey Tea,Twinings,CAT005,Beverages,Tea,SUP016,Peak Beverage Co.,20 Bags,4.29,6.29,32,1,18,Active
+P000356,BEV-0086,62210000356,Tetley Green Tea,Tetley,CAT005,Beverages,Tea,SUP005,West Coast Beverages,80 Bags,5.49,7.99,31,1,18,Active
+P000357,BEV-0087,62210000357,Coca-Cola Mini Cans,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,12 Pack,5.99,8.79,32,1,20,Active
+P000358,BEV-0088,62210000358,Pepsi Mini Cans,Pepsi,CAT005,Beverages,Soft Drinks,SUP016,Peak Beverage Co.,12 Pack,5.99,8.79,32,1,20,Active
+P000359,BEV-0089,62210000359,Sprite Mini Cans,Coca-Cola,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,12 Pack,5.99,8.79,32,1,20,Active
+P000360,BEV-0090,62210000360,Canada Dry Mini Cans,Canada Dry,CAT005,Beverages,Soft Drinks,SUP005,West Coast Beverages,12 Pack,5.99,8.79,32,1,20,Active
+P000361,SNK-0001,62210000361,Classic Potato Chips,Lay's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,220 g,2.49,3.99,38,1,30,Active
+P000362,SNK-0002,62210000362,BBQ Potato Chips,Lay's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,220 g,2.49,3.99,38,1,30,Active
+P000363,SNK-0003,62210000363,Sour Cream & Onion Chips,Lay's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,220 g,2.49,3.99,38,1,30,Active
+P000364,SNK-0004,62210000364,All Dressed Chips,Ruffles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,200 g,2.69,4.29,37,1,25,Active
+P000365,SNK-0005,62210000365,Original Chips,Ruffles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,200 g,2.69,4.29,37,1,25,Active
+P000366,SNK-0006,62210000366,Nacho Cheese Tortilla Chips,Doritos,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,235 g,2.99,4.49,33,1,25,Active
+P000367,SNK-0007,62210000367,Cool Ranch Doritos,Doritos,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,235 g,2.99,4.49,33,1,25,Active
+P000368,SNK-0008,62210000368,Ketchup Chips,Old Dutch,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,220 g,2.59,4.09,37,1,25,Active
+P000369,SNK-0009,62210000369,Salt & Vinegar Chips,Miss Vickie's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,220 g,2.99,4.49,33,1,20,Active
+P000370,SNK-0010,62210000370,Jalapeño Chips,Miss Vickie's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,220 g,2.99,4.49,33,1,20,Active
+P000371,SNK-0011,62210000371,Original Pringles,Pringles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,156 g,2.79,4.29,35,1,25,Active
+P000372,SNK-0012,62210000372,Sour Cream & Onion Pringles,Pringles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,156 g,2.79,4.29,35,1,25,Active
+P000373,SNK-0013,62210000373,Original Ritz Crackers,Ritz,CAT006,Snacks & Candy,Crackers,SUP006,Snack Hub Distribution,200 g,2.49,3.79,34,1,20,Active
+P000374,SNK-0014,62210000374,Whole Wheat Ritz Crackers,Ritz,CAT006,Snacks & Candy,Crackers,SUP006,Snack Hub Distribution,200 g,2.59,3.89,33,1,20,Active
+P000375,SNK-0015,62210000375,Premium Saltine Crackers,Christie,CAT006,Snacks & Candy,Crackers,SUP029,Summit Retail Foods,450 g,2.99,4.49,33,1,20,Active
+P000376,SNK-0016,62210000376,Original Triscuit,Triscuit,CAT006,Snacks & Candy,Crackers,SUP006,Snack Hub Distribution,200 g,2.99,4.49,33,1,18,Active
+P000377,SNK-0017,62210000377,Wheat Thins Original,Wheat Thins,CAT006,Snacks & Candy,Crackers,SUP029,Summit Retail Foods,200 g,2.99,4.49,33,1,18,Active
+P000378,SNK-0018,62210000378,Smartfood White Cheddar Popcorn,Smartfood,CAT006,Snacks & Candy,Popcorn,SUP006,Snack Hub Distribution,170 g,3.49,5.29,34,1,18,Active
+P000379,SNK-0019,62210000379,Movie Theatre Popcorn,Orville Redenbacher's,CAT006,Snacks & Candy,Popcorn,SUP029,Summit Retail Foods,3 Pack,4.49,6.49,31,1,15,Active
+P000380,SNK-0020,62210000380,Butter Microwave Popcorn,Orville Redenbacher's,CAT006,Snacks & Candy,Popcorn,SUP029,Summit Retail Foods,3 Pack,4.49,6.49,31,1,15,Active
+P000381,SNK-0021,62210000381,KitKat,Nestlé,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,45 g,0.99,1.79,45,1,40,Active
+P000382,SNK-0022,62210000382,Coffee Crisp,Nestlé,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,50 g,0.99,1.79,45,1,40,Active
+P000383,SNK-0023,62210000383,Aero Milk Chocolate,Nestlé,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,42 g,0.99,1.79,45,1,40,Active
+P000384,SNK-0024,62210000384,Smarties,Nestlé,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,45 g,0.99,1.79,45,1,35,Active
+P000385,SNK-0025,62210000385,Hershey's Milk Chocolate,Hershey's,CAT006,Snacks & Candy,Chocolate,SUP029,Summit Retail Foods,43 g,1.09,1.99,45,1,35,Active
+P000386,SNK-0026,62210000386,Reese's Peanut Butter Cups,Reese's,CAT006,Snacks & Candy,Chocolate,SUP029,Summit Retail Foods,46 g,1.19,2.09,43,1,35,Active
+P000387,SNK-0027,62210000387,Oh Henry!,Hershey's,CAT006,Snacks & Candy,Chocolate,SUP029,Summit Retail Foods,58 g,1.19,2.09,43,1,30,Active
+P000388,SNK-0028,62210000388,Twix,Mars,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,50 g,1.19,2.09,43,1,35,Active
+P000389,SNK-0029,62210000389,Snickers,Mars,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,52 g,1.19,2.09,43,1,35,Active
+P000390,SNK-0030,62210000390,M&M's Peanut,Mars,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,49 g,1.29,2.29,44,1,30,Active
+P000391,SNK-0031,62210000391,Skittles Original,Skittles,CAT006,Snacks & Candy,Candy,SUP006,Snack Hub Distribution,61 g,1.09,1.99,45,1,35,Active
+P000392,SNK-0032,62210000392,Starburst Original,Starburst,CAT006,Snacks & Candy,Candy,SUP006,Snack Hub Distribution,58 g,1.09,1.99,45,1,35,Active
+P000393,SNK-0033,62210000393,Jolly Rancher Hard Candy,Jolly Rancher,CAT006,Snacks & Candy,Candy,SUP029,Summit Retail Foods,198 g,2.49,3.99,38,1,25,Active
+P000394,SNK-0034,62210000394,Nerds Candy,Nerds,CAT006,Snacks & Candy,Candy,SUP029,Summit Retail Foods,47 g,1.19,2.09,43,1,30,Active
+P000395,SNK-0035,62210000395,Maynards Swedish Berries,Maynards,CAT006,Snacks & Candy,Gummies,SUP006,Snack Hub Distribution,154 g,2.29,3.69,38,1,25,Active
+P000396,SNK-0036,62210000396,Maynards Fuzzy Peaches,Maynards,CAT006,Snacks & Candy,Gummies,SUP006,Snack Hub Distribution,154 g,2.29,3.69,38,1,25,Active
+P000397,SNK-0037,62210000397,Haribo Goldbears,Haribo,CAT006,Snacks & Candy,Gummies,SUP029,Summit Retail Foods,175 g,2.49,3.99,38,1,25,Active
+P000398,SNK-0038,62210000398,Haribo Happy Cola,Haribo,CAT006,Snacks & Candy,Gummies,SUP029,Summit Retail Foods,175 g,2.49,3.99,38,1,25,Active
+P000399,SNK-0039,62210000399,Oreo Original Cookies,Oreo,CAT006,Snacks & Candy,Cookies & Biscuits,SUP006,Snack Hub Distribution,270 g,3.29,4.99,34,1,20,Active
+P000400,SNK-0040,62210000400,Oreo Double Stuf Cookies,Oreo,CAT006,Snacks & Candy,Cookies & Biscuits,SUP006,Snack Hub Distribution,261 g,3.49,5.29,34,1,20,Active
+P000401,SNK-0041,62210000401,Lay's Classic Multipack,Lay's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,18 Pack,8.49,11.99,29,1,12,Active
+P000402,SNK-0042,62210000402,Doritos Variety Pack,Doritos,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,18 Pack,8.99,12.99,31,1,12,Active
+P000403,SNK-0043,62210000403,Ruffles Variety Pack,Ruffles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,18 Pack,8.79,12.79,31,1,12,Active
+P000404,SNK-0044,62210000404,Cheetos Crunchy,Cheetos,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,210 g,2.99,4.49,33,1,20,Active
+P000405,SNK-0045,62210000405,Cheetos Flamin' Hot,Cheetos,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,210 g,2.99,4.49,33,1,20,Active
+P000406,SNK-0046,62210000406,Christie Premium Plus Crackers,Christie,CAT006,Snacks & Candy,Crackers,SUP029,Summit Retail Foods,500 g,3.49,5.29,34,1,18,Active
+P000407,SNK-0047,62210000407,Ritz Cheese Crackers,Ritz,CAT006,Snacks & Candy,Crackers,SUP006,Snack Hub Distribution,200 g,2.99,4.49,33,1,18,Active
+P000408,SNK-0048,62210000408,Christie Vegetable Crackers,Christie,CAT006,Snacks & Candy,Crackers,SUP029,Summit Retail Foods,200 g,2.89,4.29,33,1,18,Active
+P000409,SNK-0049,62210000409,Nature Valley Oats & Honey,Nature Valley,CAT006,Snacks & Candy,Gra0la Bars,SUP006,Snack Hub Distribution,5 Pack,3.49,5.29,34,1,20,Active
+P000410,SNK-0050,62210000410,Nature Valley Peanut Butter,Nature Valley,CAT006,Snacks & Candy,Gra0la Bars,SUP006,Snack Hub Distribution,5 Pack,3.49,5.29,34,1,20,Active
+P000411,SNK-0051,62210000411,Quaker Chocolate Chip Gra0la Bars,Quaker,CAT006,Snacks & Candy,Gra0la Bars,SUP029,Summit Retail Foods,10 Pack,3.99,5.99,33,1,18,Active
+P000412,SNK-0052,62210000412,Quaker Yogurt Gra0la Bars,Quaker,CAT006,Snacks & Candy,Gra0la Bars,SUP029,Summit Retail Foods,10 Pack,3.99,5.99,33,1,18,Active
+P000413,SNK-0053,62210000413,KIND Dark Chocolate Nuts Bar,KIND,CAT006,Snacks & Candy,Protein Bars,SUP006,Snack Hub Distribution,40 g,1.89,2.99,37,1,25,Active
+P000414,SNK-0054,62210000414,KIND Peanut Butter Bar,KIND,CAT006,Snacks & Candy,Protein Bars,SUP006,Snack Hub Distribution,40 g,1.89,2.99,37,1,25,Active
+P000415,SNK-0055,62210000415,CLIF Chocolate Chip Bar,CLIF,CAT006,Snacks & Candy,Protein Bars,SUP029,Summit Retail Foods,68 g,1.99,3.19,38,1,25,Active
+P000416,SNK-0056,62210000416,Mixed Deluxe Nuts,Planters,CAT006,Snacks & Candy,Nuts,SUP029,Summit Retail Foods,250 g,5.49,7.99,31,1,15,Active
+P000417,SNK-0057,62210000417,Dry Roasted Peanuts,Planters,CAT006,Snacks & Candy,Nuts,SUP029,Summit Retail Foods,275 g,3.99,5.99,33,1,20,Active
+P000418,SNK-0058,62210000418,Cranberry Trail Mix,Planters,CAT006,Snacks & Candy,Trail Mix,SUP029,Summit Retail Foods,300 g,5.29,7.79,32,1,15,Active
+P000419,SNK-0059,62210000419,Original Pretzel Twists,Snyder's,CAT006,Snacks & Candy,Pretzels,SUP006,Snack Hub Distribution,340 g,3.49,5.29,34,1,18,Active
+P000420,SNK-0060,62210000420,Quaker Lightly Salted Rice Cakes,Quaker,CAT006,Snacks & Candy,Rice Cakes,SUP029,Summit Retail Foods,127 g,2.49,3.79,34,1,20,Active
+P000421,SNK-0061,62210000421,Chips Ahoy! Original Cookies,Chips Ahoy!,CAT006,Snacks & Candy,Cookies & Biscuits,SUP006,Snack Hub Distribution,258 g,3.29,4.99,34,1,18,Active
+P000422,SNK-0062,62210000422,Chips Ahoy! Chewy Cookies,Chips Ahoy!,CAT006,Snacks & Candy,Cookies & Biscuits,SUP006,Snack Hub Distribution,251 g,3.29,4.99,34,1,18,Active
+P000423,SNK-0063,62210000423,Peek Freans Lifestyle Biscuits,Peek Freans,CAT006,Snacks & Candy,Cookies & Biscuits,SUP029,Summit Retail Foods,300 g,2.99,4.49,33,1,18,Active
+P000424,SNK-0064,62210000424,McVitie's Digestive Biscuits,McVitie's,CAT006,Snacks & Candy,Cookies & Biscuits,SUP029,Summit Retail Foods,400 g,3.49,5.29,34,1,18,Active
+P000425,SNK-0065,62210000425,Oreo Golden Cookies,Oreo,CAT006,Snacks & Candy,Cookies & Biscuits,SUP006,Snack Hub Distribution,261 g,3.49,5.29,34,1,18,Active
+P000426,SNK-0066,62210000426,Christie Arrowroot Cookies,Christie,CAT006,Snacks & Candy,Cookies & Biscuits,SUP029,Summit Retail Foods,350 g,3.19,4.79,33,1,18,Active
+P000427,SNK-0067,62210000427,Extra Spearmint Gum,Extra,CAT006,Snacks & Candy,Gum,SUP006,Snack Hub Distribution,15 Sticks,1.39,2.29,39,1,30,Active
+P000428,SNK-0068,62210000428,Extra Polar Ice Gum,Extra,CAT006,Snacks & Candy,Gum,SUP006,Snack Hub Distribution,15 Sticks,1.39,2.29,39,1,30,Active
+P000429,SNK-0069,62210000429,Orbit Peppermint Gum,Orbit,CAT006,Snacks & Candy,Gum,SUP029,Summit Retail Foods,14 Pieces,1.49,2.39,38,1,30,Active
+P000430,SNK-0070,62210000430,Trident Original Gum,Trident,CAT006,Snacks & Candy,Gum,SUP029,Summit Retail Foods,14 Pieces,1.49,2.39,38,1,30,Active
+P000431,SNK-0071,62210000431,Tic Tac Fresh Mint,Tic Tac,CAT006,Snacks & Candy,Mints,SUP006,Snack Hub Distribution,49 g,1.49,2.39,38,1,25,Active
+P000432,SNK-0072,62210000432,Tic Tac Orange,Tic Tac,CAT006,Snacks & Candy,Mints,SUP006,Snack Hub Distribution,49 g,1.49,2.39,38,1,25,Active
+P000433,SNK-0073,62210000433,Mentos Mint,Mentos,CAT006,Snacks & Candy,Mints,SUP029,Summit Retail Foods,37.5 g,1.19,1.99,40,1,30,Active
+P000434,SNK-0074,62210000434,Mentos Fruit,Mentos,CAT006,Snacks & Candy,Mints,SUP029,Summit Retail Foods,37.5 g,1.19,1.99,40,1,30,Active
+P000435,SNK-0075,62210000435,M&M's Family Size,Mars,CAT006,Snacks & Candy,Chocolate,SUP006,Snack Hub Distribution,200 g,4.49,6.49,31,1,18,Active
+P000436,SNK-0076,62210000436,Mini Eggs,Cadbury,CAT006,Snacks & Candy,Chocolate,SUP029,Summit Retail Foods,200 g,4.99,7.29,31,1,18,Active
+P000437,SNK-0077,62210000437,Cadbury Dairy Milk Bar,Cadbury,CAT006,Snacks & Candy,Chocolate,SUP029,Summit Retail Foods,100 g,2.19,3.49,37,1,25,Active
+P000438,SNK-0078,62210000438,Lindt Excellence Dark Chocolate,Lindt,CAT006,Snacks & Candy,Chocolate,SUP029,Summit Retail Foods,100 g,2.99,4.79,38,1,18,Active
+P000439,SNK-0079,62210000439,Sweet & Salty Trail Mix,Planters,CAT006,Snacks & Candy,Trail Mix,SUP029,Summit Retail Foods,300 g,5.49,7.99,31,1,15,Active
+P000440,SNK-0080,62210000440,Honey Roasted Peanuts,Planters,CAT006,Snacks & Candy,Nuts,SUP029,Summit Retail Foods,275 g,4.29,6.29,32,1,18,Active
+P000441,SNK-0081,62210000441,SkinnyPop Original Popcorn,SkinnyPop,CAT006,Snacks & Candy,Popcorn,SUP006,Snack Hub Distribution,142 g,3.99,5.99,33,1,18,Active
+P000442,SNK-0082,62210000442,Smartfood Caramel Popcorn,Smartfood,CAT006,Snacks & Candy,Popcorn,SUP006,Snack Hub Distribution,150 g,3.89,5.79,33,1,18,Active
+P000443,SNK-0083,62210000443,Nature Valley Sweet & Salty Bars,Nature Valley,CAT006,Snacks & Candy,Gra0la Bars,SUP006,Snack Hub Distribution,5 Pack,3.69,5.49,33,1,18,Active
+P000444,SNK-0084,62210000444,KIND Caramel Almond Bar,KIND,CAT006,Snacks & Candy,Protein Bars,SUP006,Snack Hub Distribution,40 g,1.89,2.99,37,1,20,Active
+P000445,SNK-0085,62210000445,CLIF Crunchy Peanut Butter Bar,CLIF,CAT006,Snacks & Candy,Protein Bars,SUP029,Summit Retail Foods,68 g,1.99,3.19,38,1,20,Active
+P000446,SNK-0086,62210000446,Ritz Fresh Stacks Crackers,Ritz,CAT006,Snacks & Candy,Crackers,SUP006,Snack Hub Distribution,320 g,3.29,4.99,34,1,18,Active
+P000447,SNK-0087,62210000447,Wheat Thins Sundried Tomato,Wheat Thins,CAT006,Snacks & Candy,Crackers,SUP029,Summit Retail Foods,200 g,2.99,4.49,33,1,18,Active
+P000448,SNK-0088,62210000448,Pringles BBQ,Pringles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,156 g,2.79,4.29,35,1,20,Active
+P000449,SNK-0089,62210000449,Pringles Pizza,Pringles,CAT006,Snacks & Candy,Chips,SUP029,Summit Retail Foods,156 g,2.79,4.29,35,1,20,Active
+P000450,SNK-0090,62210000450,Miss Vickie's Original Chips,Miss Vickie's,CAT006,Snacks & Candy,Chips,SUP006,Snack Hub Distribution,220 g,2.99,4.49,33,1,20,Active
+P000451,PAN-0001,62210000451,Basmati Rice,Tilda,CAT007,Pantry & Grocery,Rice,SUP007,Heritage Grocery Supply,5 kg,10.99,15.99,31,0,15,Active
+P000452,PAN-0002,62210000452,Jasmine Rice,Rooster,CAT007,Pantry & Grocery,Rice,SUP007,Heritage Grocery Supply,5 kg,9.99,14.49,31,0,15,Active
+P000453,PAN-0003,62210000453,Long Grain White Rice,Uncle Ben's,CAT007,Pantry & Grocery,Rice,SUP007,Heritage Grocery Supply,2 kg,5.99,8.79,32,0,20,Active
+P000454,PAN-0004,62210000454,Brown Rice,Tilda,CAT007,Pantry & Grocery,Rice,SUP007,Heritage Grocery Supply,2 kg,6.49,9.49,32,0,18,Active
+P000455,PAN-0005,62210000455,Arborio Rice,Gallo,CAT007,Pantry & Grocery,Rice,SUP030,Global Pantry Imports,1 kg,5.99,8.99,33,0,12,Active
+P000456,PAN-0006,62210000456,Spaghetti,Catelli,CAT007,Pantry & Grocery,Pasta,SUP007,Heritage Grocery Supply,500 g,1.79,2.79,36,0,30,Active
+P000457,PAN-0007,62210000457,Penne Rigate,Catelli,CAT007,Pantry & Grocery,Pasta,SUP007,Heritage Grocery Supply,500 g,1.79,2.79,36,0,30,Active
+P000458,PAN-0008,62210000458,Fusilli,Catelli,CAT007,Pantry & Grocery,Pasta,SUP007,Heritage Grocery Supply,500 g,1.79,2.79,36,0,30,Active
+P000459,PAN-0009,62210000459,Macaroni,Catelli,CAT007,Pantry & Grocery,Pasta,SUP007,Heritage Grocery Supply,500 g,1.79,2.79,36,0,30,Active
+P000460,PAN-0010,62210000460,Linguine,Barilla,CAT007,Pantry & Grocery,Pasta,SUP030,Global Pantry Imports,500 g,2.29,3.49,34,0,25,Active
+P000461,PAN-0011,62210000461,Traditional Pasta Sauce,Classico,CAT007,Pantry & Grocery,Pasta Sauce,SUP030,Global Pantry Imports,650 mL,3.49,5.29,34,0,20,Active
+P000462,PAN-0012,62210000462,Tomato Basil Pasta Sauce,Classico,CAT007,Pantry & Grocery,Pasta Sauce,SUP030,Global Pantry Imports,650 mL,3.49,5.29,34,0,20,Active
+P000463,PAN-0013,62210000463,Four Cheese Pasta Sauce,Classico,CAT007,Pantry & Grocery,Pasta Sauce,SUP030,Global Pantry Imports,650 mL,3.79,5.69,33,0,18,Active
+P000464,PAN-0014,62210000464,Alfredo Pasta Sauce,Classico,CAT007,Pantry & Grocery,Pasta Sauce,SUP030,Global Pantry Imports,650 mL,3.99,5.99,33,0,18,Active
+P000465,PAN-0015,62210000465,Marinara Pasta Sauce,Catelli,CAT007,Pantry & Grocery,Pasta Sauce,SUP007,Heritage Grocery Supply,650 mL,3.29,4.99,34,0,20,Active
+P000466,PAN-0016,62210000466,Whole Kernel Corn,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,341 mL,1.49,2.29,35,0,30,Active
+P000467,PAN-0017,62210000467,Sweet Peas,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,341 mL,1.49,2.29,35,0,30,Active
+P000468,PAN-0018,62210000468,Cut Green Beans,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,341 mL,1.49,2.29,35,0,30,Active
+P000469,PAN-0019,62210000469,Sliced Mushrooms,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,284 mL,1.69,2.49,32,0,25,Active
+P000470,PAN-0020,62210000470,Diced Tomatoes,Hunt's,CAT007,Pantry & Grocery,Canned Tomatoes,SUP030,Global Pantry Imports,796 mL,1.99,2.99,33,0,25,Active
+P000471,PAN-0021,62210000471,Black Beans,Unico,CAT007,Pantry & Grocery,Beans & Legumes,SUP007,Heritage Grocery Supply,540 mL,1.69,2.49,32,0,25,Active
+P000472,PAN-0022,62210000472,Chickpeas,Unico,CAT007,Pantry & Grocery,Beans & Legumes,SUP007,Heritage Grocery Supply,540 mL,1.69,2.49,32,0,25,Active
+P000473,PAN-0023,62210000473,Kidney Beans,Unico,CAT007,Pantry & Grocery,Beans & Legumes,SUP007,Heritage Grocery Supply,540 mL,1.69,2.49,32,0,25,Active
+P000474,PAN-0024,62210000474,White Beans,Unico,CAT007,Pantry & Grocery,Beans & Legumes,SUP007,Heritage Grocery Supply,540 mL,1.69,2.49,32,0,25,Active
+P000475,PAN-0025,62210000475,Lentils,Unico,CAT007,Pantry & Grocery,Beans & Legumes,SUP007,Heritage Grocery Supply,540 mL,1.79,2.59,31,0,25,Active
+P000476,PAN-0026,62210000476,Tomato Soup,Campbell's,CAT007,Pantry & Grocery,Soup,SUP030,Global Pantry Imports,284 mL,1.69,2.49,32,0,30,Active
+P000477,PAN-0027,62210000477,Chicken 0odle Soup,Campbell's,CAT007,Pantry & Grocery,Soup,SUP030,Global Pantry Imports,284 mL,1.79,2.69,33,0,30,Active
+P000478,PAN-0028,62210000478,Cream of Mushroom Soup,Campbell's,CAT007,Pantry & Grocery,Soup,SUP030,Global Pantry Imports,284 mL,1.79,2.69,33,0,30,Active
+P000479,PAN-0029,62210000479,Vegetable Soup,Campbell's,CAT007,Pantry & Grocery,Soup,SUP030,Global Pantry Imports,284 mL,1.79,2.69,33,0,30,Active
+P000480,PAN-0030,62210000480,Minestrone Soup,Campbell's,CAT007,Pantry & Grocery,Soup,SUP030,Global Pantry Imports,284 mL,1.89,2.79,32,0,25,Active
+P000481,PAN-0031,62210000481,Honey Nut Cheerios,General Mills,CAT007,Pantry & Grocery,Breakfast Cereal,SUP007,Heritage Grocery Supply,430 g,4.29,6.29,32,0,18,Active
+P000482,PAN-0032,62210000482,Cheerios Original,General Mills,CAT007,Pantry & Grocery,Breakfast Cereal,SUP007,Heritage Grocery Supply,350 g,3.99,5.79,31,0,20,Active
+P000483,PAN-0033,62210000483,Corn Flakes,Kellogg's,CAT007,Pantry & Grocery,Breakfast Cereal,SUP007,Heritage Grocery Supply,525 g,4.19,5.99,30,0,18,Active
+P000484,PAN-0034,62210000484,Rice Krispies,Kellogg's,CAT007,Pantry & Grocery,Breakfast Cereal,SUP007,Heritage Grocery Supply,525 g,4.29,6.19,31,0,18,Active
+P000485,PAN-0035,62210000485,Frosted Flakes,Kellogg's,CAT007,Pantry & Grocery,Breakfast Cereal,SUP007,Heritage Grocery Supply,580 g,4.49,6.49,31,0,18,Active
+P000486,PAN-0036,62210000486,Special K Original,Kellogg's,CAT007,Pantry & Grocery,Breakfast Cereal,SUP007,Heritage Grocery Supply,440 g,4.49,6.49,31,0,18,Active
+P000487,PAN-0037,62210000487,Smooth Peanut Butter,Kraft,CAT007,Pantry & Grocery,Peanut Butter,SUP007,Heritage Grocery Supply,1 kg,5.99,8.49,29,0,15,Active
+P000488,PAN-0038,62210000488,Crunchy Peanut Butter,Kraft,CAT007,Pantry & Grocery,Peanut Butter,SUP007,Heritage Grocery Supply,1 kg,5.99,8.49,29,0,15,Active
+P000489,PAN-0039,62210000489,Strawberry Jam,Smucker's,CAT007,Pantry & Grocery,Jam & Preserves,SUP030,Global Pantry Imports,500 mL,3.99,5.79,31,0,18,Active
+P000490,PAN-0040,62210000490,Raspberry Jam,Smucker's,CAT007,Pantry & Grocery,Jam & Preserves,SUP030,Global Pantry Imports,500 mL,3.99,5.79,31,0,18,Active
+P000491,PAN-0041,62210000491,Pure Liquid Honey,Billy Bee,CAT007,Pantry & Grocery,Honey,SUP030,Global Pantry Imports,500 g,5.49,7.99,31,0,15,Active
+P000492,PAN-0042,62210000492,Organic Honey,Nature Nate's,CAT007,Pantry & Grocery,Honey,SUP030,Global Pantry Imports,500 g,6.49,9.49,32,0,12,Active
+P000493,PAN-0043,62210000493,Pure Maple Syrup,Decacer,CAT007,Pantry & Grocery,Maple Syrup,SUP007,Heritage Grocery Supply,540 mL,8.49,11.99,29,0,12,Active
+P000494,PAN-0044,62210000494,Table Syrup,Aunt Jemima,CAT007,Pantry & Grocery,Maple Syrup,SUP007,Heritage Grocery Supply,710 mL,3.99,5.79,31,0,15,Active
+P000495,PAN-0045,62210000495,All-Purpose Flour,Robin Hood,CAT007,Pantry & Grocery,Flour,SUP007,Heritage Grocery Supply,2.5 kg,4.99,7.29,32,0,15,Active
+P000496,PAN-0046,62210000496,Whole Wheat Flour,Robin Hood,CAT007,Pantry & Grocery,Flour,SUP007,Heritage Grocery Supply,2.5 kg,5.29,7.69,31,0,15,Active
+P000497,PAN-0047,62210000497,Cake & Pastry Flour,Robin Hood,CAT007,Pantry & Grocery,Flour,SUP007,Heritage Grocery Supply,2.5 kg,5.49,7.99,31,0,12,Active
+P000498,PAN-0048,62210000498,Granulated White Sugar,Redpath,CAT007,Pantry & Grocery,Sugar,SUP007,Heritage Grocery Supply,2 kg,3.99,5.79,31,0,20,Active
+P000499,PAN-0049,62210000499,Brown Sugar,Redpath,CAT007,Pantry & Grocery,Sugar,SUP007,Heritage Grocery Supply,1 kg,2.99,4.39,32,0,20,Active
+P000500,PAN-0050,62210000500,Icing Sugar,Redpath,CAT007,Pantry & Grocery,Sugar,SUP007,Heritage Grocery Supply,1 kg,3.29,4.79,31,0,18,Active
+P000501,PAN-0051,62210000501,Table Salt,Windsor,CAT007,Pantry & Grocery,Salt,SUP030,Global Pantry Imports,1 kg,1.49,2.29,35,0,30,Active
+P000502,PAN-0052,62210000502,Sea Salt,Windsor,CAT007,Pantry & Grocery,Salt,SUP030,Global Pantry Imports,750 g,2.29,3.39,32,0,20,Active
+P000503,PAN-0053,62210000503,Black Pepper,Club House,CAT007,Pantry & Grocery,Spices,SUP030,Global Pantry Imports,110 g,3.99,5.79,31,0,15,Active
+P000504,PAN-0054,62210000504,Garlic Powder,Club House,CAT007,Pantry & Grocery,Spices,SUP030,Global Pantry Imports,130 g,3.49,4.99,30,0,15,Active
+P000505,PAN-0055,62210000505,Onion Powder,Club House,CAT007,Pantry & Grocery,Spices,SUP030,Global Pantry Imports,120 g,3.49,4.99,30,0,15,Active
+P000506,PAN-0056,62210000506,Paprika,Club House,CAT007,Pantry & Grocery,Spices,SUP030,Global Pantry Imports,95 g,3.69,5.29,30,0,15,Active
+P000507,PAN-0057,62210000507,Ground Cinnamon,Club House,CAT007,Pantry & Grocery,Spices,SUP030,Global Pantry Imports,95 g,3.69,5.29,30,0,15,Active
+P000508,PAN-0058,62210000508,Baking Powder,Fleischmann's,CAT007,Pantry & Grocery,Baking Essentials,SUP007,Heritage Grocery Supply,225 g,2.49,3.69,32,0,20,Active
+P000509,PAN-0059,62210000509,Baking Soda,Arm & Hammer,CAT007,Pantry & Grocery,Baking Essentials,SUP007,Heritage Grocery Supply,500 g,1.99,2.99,33,0,25,Active
+P000510,PAN-0060,62210000510,Pure Vanilla Extract,Club House,CAT007,Pantry & Grocery,Baking Essentials,SUP030,Global Pantry Imports,125 mL,5.99,8.79,32,0,12,Active
+P000511,PAN-0061,62210000511,Extra Virgin Olive Oil,Bertolli,CAT007,Pantry & Grocery,Cooking Oil,SUP030,Global Pantry Imports,1 L,10.99,15.99,31,0,12,Active
+P000512,PAN-0062,62210000512,Ca0la Oil,Mazola,CAT007,Pantry & Grocery,Cooking Oil,SUP007,Heritage Grocery Supply,2 L,7.99,11.49,31,0,15,Active
+P000513,PAN-0063,62210000513,Vegetable Oil,Crisco,CAT007,Pantry & Grocery,Cooking Oil,SUP007,Heritage Grocery Supply,2 L,7.49,10.99,32,0,15,Active
+P000514,PAN-0064,62210000514,Avocado Oil,Chosen Foods,CAT007,Pantry & Grocery,Cooking Oil,SUP030,Global Pantry Imports,750 mL,12.99,18.49,30,0,10,Active
+P000515,PAN-0065,62210000515,Sesame Oil,Kikkoman,CAT007,Pantry & Grocery,Cooking Oil,SUP030,Global Pantry Imports,250 mL,5.49,7.99,31,0,12,Active
+P000516,PAN-0066,62210000516,White Vinegar,Allen's,CAT007,Pantry & Grocery,Vinegar,SUP007,Heritage Grocery Supply,4 L,3.49,5.19,33,0,15,Active
+P000517,PAN-0067,62210000517,Apple Cider Vinegar,Bragg,CAT007,Pantry & Grocery,Vinegar,SUP030,Global Pantry Imports,946 mL,6.99,9.99,30,0,12,Active
+P000518,PAN-0068,62210000518,Balsamic Vinegar,Bertolli,CAT007,Pantry & Grocery,Vinegar,SUP030,Global Pantry Imports,500 mL,5.99,8.79,32,0,12,Active
+P000519,PAN-0069,62210000519,Tomato Paste,Unico,CAT007,Pantry & Grocery,Tomato Products,SUP007,Heritage Grocery Supply,156 mL,1.29,1.99,35,0,30,Active
+P000520,PAN-0070,62210000520,Tomato Purée,Unico,CAT007,Pantry & Grocery,Tomato Products,SUP007,Heritage Grocery Supply,680 mL,2.29,3.39,32,0,25,Active
+P000521,PAN-0071,62210000521,Pizza Sauce,Unico,CAT007,Pantry & Grocery,Tomato Products,SUP007,Heritage Grocery Supply,398 mL,2.19,3.29,33,0,20,Active
+P000522,PAN-0072,62210000522,Salsa Medium,Old El Paso,CAT007,Pantry & Grocery,Mexican Foods,SUP030,Global Pantry Imports,650 mL,3.49,4.99,30,0,20,Active
+P000523,PAN-0073,62210000523,Taco Seasoning Mix,Old El Paso,CAT007,Pantry & Grocery,Mexican Foods,SUP030,Global Pantry Imports,35 g,0.99,1.79,45,0,35,Active
+P000524,PAN-0074,62210000524,Refried Beans,Old El Paso,CAT007,Pantry & Grocery,Mexican Foods,SUP030,Global Pantry Imports,398 mL,2.49,3.69,32,0,20,Active
+P000525,PAN-0075,62210000525,Soft Taco Kit,Old El Paso,CAT007,Pantry & Grocery,Mexican Foods,SUP030,Global Pantry Imports,Kit,5.99,8.49,29,0,12,Active
+P000526,PAN-0076,62210000526,Soy Sauce,Kikkoman,CAT007,Pantry & Grocery,Asian Foods,SUP030,Global Pantry Imports,500 mL,3.99,5.79,31,0,18,Active
+P000527,PAN-0077,62210000527,Teriyaki Sauce,Kikkoman,CAT007,Pantry & Grocery,Asian Foods,SUP030,Global Pantry Imports,300 mL,4.29,6.19,31,0,18,Active
+P000528,PAN-0078,62210000528,Sweet Chili Sauce,Thai Kitchen,CAT007,Pantry & Grocery,Asian Foods,SUP030,Global Pantry Imports,455 mL,3.99,5.79,31,0,18,Active
+P000529,PAN-0079,62210000529,Fish Sauce,Thai Kitchen,CAT007,Pantry & Grocery,Asian Foods,SUP030,Global Pantry Imports,200 mL,3.49,4.99,30,0,15,Active
+P000530,PAN-0080,62210000530,Instant Ramen Chicken,Mr. 0odles,CAT007,Pantry & Grocery,Asian Foods,SUP007,Heritage Grocery Supply,85 g,0.49,0.99,51,0,60,Active
+P000531,PAN-0081,62210000531,Instant Ramen Beef,Mr. 0odles,CAT007,Pantry & Grocery,Asian Foods,SUP007,Heritage Grocery Supply,85 g,0.49,0.99,51,0,60,Active
+P000532,PAN-0082,62210000532,Instant Ramen Vegetable,Mr. 0odles,CAT007,Pantry & Grocery,Asian Foods,SUP007,Heritage Grocery Supply,85 g,0.49,0.99,51,0,60,Active
+P000533,PAN-0083,62210000533,Chicken Flavoured Cup 0odles,Nissin,CAT007,Pantry & Grocery,Asian Foods,SUP030,Global Pantry Imports,64 g,0.99,1.79,45,0,40,Active
+P000534,PAN-0084,62210000534,Beef Flavoured Cup 0odles,Nissin,CAT007,Pantry & Grocery,Asian Foods,SUP030,Global Pantry Imports,64 g,0.99,1.79,45,0,40,Active
+P000535,PAN-0085,62210000535,Quaker Quick Oats,Quaker,CAT007,Pantry & Grocery,Oatmeal,SUP007,Heritage Grocery Supply,1 kg,4.49,6.49,31,0,20,Active
+P000536,PAN-0086,62210000536,Quaker Large Flake Oats,Quaker,CAT007,Pantry & Grocery,Oatmeal,SUP007,Heritage Grocery Supply,1 kg,4.49,6.49,31,0,20,Active
+P000537,PAN-0087,62210000537,Maple & Brown Sugar Instant Oatmeal,Quaker,CAT007,Pantry & Grocery,Oatmeal,SUP007,Heritage Grocery Supply,10 Pack,3.99,5.79,31,0,18,Active
+P000538,PAN-0088,62210000538,Aunt Jemima Pancake Mix,Aunt Jemima,CAT007,Pantry & Grocery,Pancake Mix,SUP007,Heritage Grocery Supply,905 g,3.99,5.79,31,0,18,Active
+P000539,PAN-0089,62210000539,Bisquick Pancake & Baking Mix,Bisquick,CAT007,Pantry & Grocery,Pancake Mix,SUP007,Heritage Grocery Supply,1.13 kg,5.49,7.99,31,0,15,Active
+P000540,PAN-0090,62210000540,Italian Bread Crumbs,Progresso,CAT007,Pantry & Grocery,Bread Crumbs,SUP030,Global Pantry Imports,425 g,2.99,4.29,30,0,20,Active
+P000541,PAN-0091,62210000541,Plain Bread Crumbs,Progresso,CAT007,Pantry & Grocery,Bread Crumbs,SUP030,Global Pantry Imports,425 g,2.99,4.29,30,0,20,Active
+P000542,PAN-0092,62210000542,Turkey Gravy Mix,Club House,CAT007,Pantry & Grocery,Gravy Mix,SUP030,Global Pantry Imports,25 g,0.99,1.69,41,0,35,Active
+P000543,PAN-0093,62210000543,Brown Gravy Mix,Club House,CAT007,Pantry & Grocery,Gravy Mix,SUP030,Global Pantry Imports,25 g,0.99,1.69,41,0,35,Active
+P000544,PAN-0094,62210000544,Stove Top Stuffing Mix,Kraft,CAT007,Pantry & Grocery,Stuffing,SUP007,Heritage Grocery Supply,120 g,2.49,3.69,32,0,20,Active
+P000545,PAN-0095,62210000545,Evaporated Milk,Carnation,CAT007,Pantry & Grocery,Shelf-Stable Milk,SUP007,Heritage Grocery Supply,354 mL,1.89,2.79,32,0,25,Active
+P000546,PAN-0096,62210000546,Sweetened Condensed Milk,Eagle Brand,CAT007,Pantry & Grocery,Shelf-Stable Milk,SUP030,Global Pantry Imports,300 mL,2.79,3.99,30,0,20,Active
+P000547,PAN-0097,62210000547,Almond Milk Shelf Stable,Silk,CAT007,Pantry & Grocery,Shelf-Stable Milk,SUP007,Heritage Grocery Supply,946 mL,2.99,4.49,33,0,18,Active
+P000548,PAN-0098,62210000548,Hot Chocolate Mix,Swiss Miss,CAT007,Pantry & Grocery,Beverage Mixes,SUP030,Global Pantry Imports,10 Pack,3.99,5.79,31,0,18,Active
+P000549,PAN-0099,62210000549,Chocolate Instant Pudding,Jell-O,CAT007,Pantry & Grocery,Dessert Mixes,SUP030,Global Pantry Imports,102 g,1.49,2.29,35,0,25,Active
+P000550,PAN-0100,62210000550,Strawberry Gelatin Dessert,Jell-O,CAT007,Pantry & Grocery,Dessert Mixes,SUP030,Global Pantry Imports,85 g,1.29,1.99,35,0,25,Active
+P000551,PAN-0101,62210000551,Coffee Whitener,Coffee Mate,CAT007,Pantry & Grocery,Coffee Creamers,SUP007,Heritage Grocery Supply,450 g,4.49,6.49,31,0,18,Active
+P000552,PAN-0102,62210000552,French Vanilla Coffee Creamer,Coffee Mate,CAT007,Pantry & Grocery,Coffee Creamers,SUP007,Heritage Grocery Supply,425 g,4.99,7.19,31,0,15,Active
+P000553,PAN-0103,62210000553,Hazelnut Coffee Creamer,Coffee Mate,CAT007,Pantry & Grocery,Coffee Creamers,SUP007,Heritage Grocery Supply,425 g,4.99,7.19,31,0,15,Active
+P000554,PAN-0104,62210000554,Chunk Light Tuna,Clover Leaf,CAT007,Pantry & Grocery,Canned Seafood,SUP030,Global Pantry Imports,170 g,2.29,3.39,32,0,25,Active
+P000555,PAN-0105,62210000555,Flaked Light Tuna,Clover Leaf,CAT007,Pantry & Grocery,Canned Seafood,SUP030,Global Pantry Imports,170 g,2.29,3.39,32,0,25,Active
+P000556,PAN-0106,62210000556,Sockeye Salmon,Clover Leaf,CAT007,Pantry & Grocery,Canned Seafood,SUP030,Global Pantry Imports,213 g,4.99,7.19,31,0,15,Active
+P000557,PAN-0107,62210000557,Crushed Tomatoes,Hunt's,CAT007,Pantry & Grocery,Tomato Products,SUP030,Global Pantry Imports,796 mL,1.99,2.99,33,0,25,Active
+P000558,PAN-0108,62210000558,Whole Peeled Tomatoes,Hunt's,CAT007,Pantry & Grocery,Tomato Products,SUP030,Global Pantry Imports,796 mL,2.19,3.19,31,0,20,Active
+P000559,PAN-0109,62210000559,Tomato Sauce,Hunt's,CAT007,Pantry & Grocery,Tomato Products,SUP030,Global Pantry Imports,680 mL,1.89,2.79,32,0,25,Active
+P000560,PAN-0110,62210000560,Creamed Corn,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,398 mL,1.49,2.29,35,0,30,Active
+P000561,PAN-0111,62210000561,Mixed Vegetables,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,398 mL,1.59,2.39,34,0,30,Active
+P000562,PAN-0112,62210000562,Sliced Carrots,Green Giant,CAT007,Pantry & Grocery,Canned Vegetables,SUP007,Heritage Grocery Supply,398 mL,1.49,2.29,35,0,30,Active
+P000563,PAN-0113,62210000563,Sweet Gherkins,Bick's,CAT007,Pantry & Grocery,Pickles,SUP007,Heritage Grocery Supply,500 mL,3.49,4.99,30,0,18,Active
+P000564,PAN-0114,62210000564,Dill Pickles,Bick's,CAT007,Pantry & Grocery,Pickles,SUP007,Heritage Grocery Supply,1 L,4.29,6.19,31,0,15,Active
+P000565,PAN-0115,62210000565,Stuffed Green Olives,Lindsay,CAT007,Pantry & Grocery,Olives,SUP030,Global Pantry Imports,235 mL,3.99,5.79,31,0,15,Active
+P000566,PAN-0116,62210000566,Black Olives,Lindsay,CAT007,Pantry & Grocery,Olives,SUP030,Global Pantry Imports,170 g,2.99,4.39,32,0,18,Active
+P000567,PAN-0117,62210000567,Ranch Dressing,Kraft,CAT007,Pantry & Grocery,Salad Dressing,SUP007,Heritage Grocery Supply,475 mL,3.99,5.79,31,0,18,Active
+P000568,PAN-0118,62210000568,Caesar Dressing,Kraft,CAT007,Pantry & Grocery,Salad Dressing,SUP007,Heritage Grocery Supply,475 mL,3.99,5.79,31,0,18,Active
+P000569,PAN-0119,62210000569,Italian Dressing,Kraft,CAT007,Pantry & Grocery,Salad Dressing,SUP007,Heritage Grocery Supply,475 mL,3.99,5.79,31,0,18,Active
+P000570,PAN-0120,62210000570,Mayonnaise,Hellmann's,CAT007,Pantry & Grocery,Condiments,SUP030,Global Pantry Imports,890 mL,5.49,7.99,31,0,15,Active
+P000571,PAN-0121,62210000571,Tomato Ketchup,Heinz,CAT007,Pantry & Grocery,Condiments,SUP030,Global Pantry Imports,1 L,4.99,7.19,31,0,18,Active
+P000572,PAN-0122,62210000572,Yellow Mustard,French's,CAT007,Pantry & Grocery,Condiments,SUP030,Global Pantry Imports,400 mL,2.49,3.69,33,0,20,Active
+P000573,PAN-0123,62210000573,Dijon Mustard,Maille,CAT007,Pantry & Grocery,Condiments,SUP030,Global Pantry Imports,215 mL,3.99,5.79,31,0,15,Active
+P000574,PAN-0124,62210000574,BBQ Sauce Original,Kraft,CAT007,Pantry & Grocery,Condiments,SUP007,Heritage Grocery Supply,455 mL,2.99,4.29,30,0,20,Active
+P000575,PAN-0125,62210000575,Sweet Baby Ray's BBQ Sauce,Sweet Baby Ray's,CAT007,Pantry & Grocery,Condiments,SUP030,Global Pantry Imports,510 g,3.49,4.99,30,0,18,Active
+P000576,PAN-0126,62210000576,Frank's RedHot Original,Frank's,CAT007,Pantry & Grocery,Hot Sauce,SUP030,Global Pantry Imports,354 mL,3.49,4.99,30,0,18,Active
+P000577,PAN-0127,62210000577,Sriracha Hot Chili Sauce,Huy Fong,CAT007,Pantry & Grocery,Hot Sauce,SUP030,Global Pantry Imports,482 g,4.99,7.19,31,0,15,Active
+P000578,PAN-0128,62210000578,Miracle Whip,Kraft,CAT007,Pantry & Grocery,Condiments,SUP007,Heritage Grocery Supply,890 mL,5.49,7.99,31,0,15,Active
+P000579,PAN-0129,62210000579,Instant Mashed Potatoes,Idahoan,CAT007,Pantry & Grocery,Instant Meals,SUP030,Global Pantry Imports,226 g,3.29,4.79,31,0,18,Active
+P000580,PAN-0130,62210000580,Chicken Gravy,Club House,CAT007,Pantry & Grocery,Gravy Mix,SUP030,Global Pantry Imports,25 g,0.99,1.69,41,0,35,Active
+P000581,PAN-0131,62210000581,Qui0a,Bob's Red Mill,CAT007,Pantry & Grocery,Grains,SUP030,Global Pantry Imports,680 g,6.49,9.29,30,0,15,Active
+P000582,PAN-0132,62210000582,Couscous,Near East,CAT007,Pantry & Grocery,Grains,SUP030,Global Pantry Imports,500 g,3.99,5.79,31,0,18,Active
+P000583,PAN-0133,62210000583,Pearl Barley,Bob's Red Mill,CAT007,Pantry & Grocery,Grains,SUP030,Global Pantry Imports,680 g,4.99,7.19,31,0,15,Active
+P000584,PAN-0134,62210000584,Corn Starch,Fleischmann's,CAT007,Pantry & Grocery,Baking Essentials,SUP007,Heritage Grocery Supply,454 g,2.49,3.69,32,0,20,Active
+P000585,PAN-0135,62210000585,Cocoa Powder,Fry's,CAT007,Pantry & Grocery,Baking Essentials,SUP030,Global Pantry Imports,227 g,5.49,7.99,31,0,15,Active
+P000586,PAN-0136,62210000586,Chocolate Chips,Hershey's,CAT007,Pantry & Grocery,Baking Essentials,SUP030,Global Pantry Imports,270 g,4.49,6.49,31,0,18,Active
+P000587,PAN-0137,62210000587,Shredded Coconut,Baker's,CAT007,Pantry & Grocery,Baking Essentials,SUP030,Global Pantry Imports,200 g,3.49,4.99,30,0,18,Active
+P000588,PAN-0138,62210000588,Dry Active Yeast,Fleischmann's,CAT007,Pantry & Grocery,Baking Essentials,SUP007,Heritage Grocery Supply,113 g,3.99,5.79,31,0,18,Active
+P000589,PAN-0139,62210000589,Vanilla Cake Mix,Betty Crocker,CAT007,Pantry & Grocery,Baking Mixes,SUP007,Heritage Grocery Supply,432 g,2.29,3.49,34,0,20,Active
+P000590,PAN-0140,62210000590,Chocolate Cake Mix,Betty Crocker,CAT007,Pantry & Grocery,Baking Mixes,SUP007,Heritage Grocery Supply,432 g,2.29,3.49,34,0,20,Active
+P000591,DEL-0001,62210000591,Black Forest Ham,Maple Leaf,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,175 g,4.29,6.49,34,1,15,Active
+P000592,DEL-0002,62210000592,Smoked Turkey Breast,Maple Leaf,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,175 g,4.49,6.79,34,1,15,Active
+P000593,DEL-0003,62210000593,Oven Roasted Chicken Breast,Maple Leaf,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,175 g,4.69,6.99,33,1,15,Active
+P000594,DEL-0004,62210000594,Roast Beef Slices,Schneider's,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,150 g,5.29,7.79,32,1,12,Active
+P000595,DEL-0005,62210000595,Honey Ham,Schneider's,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,175 g,4.69,6.99,33,1,15,Active
+P000596,DEL-0006,62210000596,Ge0a Salami,Mastro,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,150 g,4.99,7.49,33,1,12,Active
+P000597,DEL-0007,62210000597,Pepperoni Slices,Schneider's,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,250 g,5.49,7.99,31,1,12,Active
+P000598,DEL-0008,62210000598,Cooked Ham,Maple Leaf,CAT008,Deli & Ready Meals,Deli Meat,SUP008,Premium Deli Foods,175 g,4.49,6.79,34,1,15,Active
+P000599,DEL-0009,62210000599,Bacon,Maple Leaf,CAT008,Deli & Ready Meals,Bacon,SUP008,Premium Deli Foods,375 g,5.99,8.79,32,1,18,Active
+P000600,DEL-0010,62210000600,Thick Cut Bacon,Schneider's,CAT008,Deli & Ready Meals,Bacon,SUP008,Premium Deli Foods,375 g,6.49,9.49,32,1,15,Active
+P000601,DEL-0011,62210000601,Original Wieners,Maple Leaf,CAT008,Deli & Ready Meals,Hot Dogs,SUP008,Premium Deli Foods,450 g,4.49,6.49,31,1,18,Active
+P000602,DEL-0012,62210000602,Jumbo Wieners,Schneider's,CAT008,Deli & Ready Meals,Hot Dogs,SUP008,Premium Deli Foods,450 g,4.99,7.19,31,1,18,Active
+P000603,DEL-0013,62210000603,Beef Hot Dogs,Schneider's,CAT008,Deli & Ready Meals,Hot Dogs,SUP008,Premium Deli Foods,375 g,5.29,7.69,31,1,15,Active
+P000604,DEL-0014,62210000604,Cheddar Cheese Slices,Black Diamond,CAT008,Deli & Ready Meals,Cheese Slices,SUP001,Fresh Dairy Co.,410 g,5.49,7.99,31,1,18,Active
+P000605,DEL-0015,62210000605,Mozzarella Cheese Slices,Black Diamond,CAT008,Deli & Ready Meals,Cheese Slices,SUP001,Fresh Dairy Co.,410 g,5.49,7.99,31,1,18,Active
+P000606,DEL-0016,62210000606,Swiss Cheese Slices,Black Diamond,CAT008,Deli & Ready Meals,Cheese Slices,SUP001,Fresh Dairy Co.,410 g,5.79,8.29,30,1,15,Active
+P000607,DEL-0017,62210000607,Havarti Cheese Slices,Castello,CAT008,Deli & Ready Meals,Cheese Slices,SUP001,Fresh Dairy Co.,200 g,4.99,7.29,32,1,15,Active
+P000608,DEL-0018,62210000608,Coleslaw,Maple Leaf,CAT008,Deli & Ready Meals,Prepared Salad,SUP008,Premium Deli Foods,400 g,3.49,5.29,34,1,18,Active
+P000609,DEL-0019,62210000609,Potato Salad,Maple Leaf,CAT008,Deli & Ready Meals,Prepared Salad,SUP008,Premium Deli Foods,454 g,3.99,5.99,33,1,18,Active
+P000610,DEL-0020,62210000610,Macaroni Salad,Maple Leaf,CAT008,Deli & Ready Meals,Prepared Salad,SUP008,Premium Deli Foods,454 g,3.99,5.99,33,1,18,Active
+P000611,DEL-0021,62210000611,Rotisserie Chicken,Maple Leaf,CAT008,Deli & Ready Meals,Ready Meals,SUP008,Premium Deli Foods,Each,8.99,12.99,31,1,10,Active
+P000612,DEL-0022,62210000612,BBQ Rotisserie Chicken,Maple Leaf,CAT008,Deli & Ready Meals,Ready Meals,SUP008,Premium Deli Foods,Each,9.49,13.49,30,1,10,Active
+P000613,DEL-0023,62210000613,Cheese Tortellini,Olivieri,CAT008,Deli & Ready Meals,Fresh Pasta,SUP008,Premium Deli Foods,300 g,4.99,7.29,32,1,15,Active
+P000614,DEL-0024,62210000614,Spinach Ricotta Ravioli,Olivieri,CAT008,Deli & Ready Meals,Fresh Pasta,SUP008,Premium Deli Foods,300 g,5.29,7.69,31,1,15,Active
+P000615,DEL-0025,62210000615,Beef Ravioli,Olivieri,CAT008,Deli & Ready Meals,Fresh Pasta,SUP008,Premium Deli Foods,300 g,5.49,7.99,31,1,15,Active
+P000616,DEL-0026,62210000616,Spinach Tortellini,Olivieri,CAT008,Deli & Ready Meals,Fresh Pasta,SUP008,Premium Deli Foods,300 g,5.29,7.69,31,1,15,Active
+P000617,DEL-0027,62210000617,Chicken Alfredo Meal,Maple Leaf,CAT008,Deli & Ready Meals,Ready Meals,SUP008,Premium Deli Foods,400 g,6.49,9.29,30,1,12,Active
+P000618,DEL-0028,62210000618,Butter Chicken Meal,Maple Leaf,CAT008,Deli & Ready Meals,Ready Meals,SUP008,Premium Deli Foods,400 g,6.79,9.79,31,1,12,Active
+P000619,DEL-0029,62210000619,Beef Lasagna Meal,Maple Leaf,CAT008,Deli & Ready Meals,Ready Meals,SUP008,Premium Deli Foods,425 g,6.99,9.99,30,1,12,Active
+P000620,DEL-0030,62210000620,Shepherd's Pie Meal,Maple Leaf,CAT008,Deli & Ready Meals,Ready Meals,SUP008,Premium Deli Foods,425 g,6.99,9.99,30,1,12,Active
+P000621,DEL-0031,62210000621,Turkey Club Sandwich,Maple Leaf,CAT008,Deli & Ready Meals,Sandwiches,SUP008,Premium Deli Foods,Each,4.99,7.49,33,1,15,Active
+P000622,DEL-0032,62210000622,Ham & Cheese Sandwich,Maple Leaf,CAT008,Deli & Ready Meals,Sandwiches,SUP008,Premium Deli Foods,Each,4.79,7.19,34,1,15,Active
+P000623,DEL-0033,62210000623,Chicken Caesar Wrap,Maple Leaf,CAT008,Deli & Ready Meals,Wraps,SUP008,Premium Deli Foods,Each,5.49,7.99,31,1,15,Active
+P000624,DEL-0034,62210000624,Buffalo Chicken Wrap,Maple Leaf,CAT008,Deli & Ready Meals,Wraps,SUP008,Premium Deli Foods,Each,5.49,7.99,31,1,15,Active
+P000625,DEL-0035,62210000625,Greek Pasta Salad,Maple Leaf,CAT008,Deli & Ready Meals,Prepared Salad,SUP008,Premium Deli Foods,400 g,4.29,6.29,32,1,15,Active
+P000626,DEL-0036,62210000626,Caesar Salad Kit,Taylor Farms,CAT008,Deli & Ready Meals,Prepared Salad,SUP003,Valley Produce Supply,340 g,3.99,5.99,33,1,18,Active
+P000627,DEL-0037,62210000627,Garden Salad Kit,Taylor Farms,CAT008,Deli & Ready Meals,Prepared Salad,SUP003,Valley Produce Supply,340 g,3.99,5.99,33,1,18,Active
+P000628,DEL-0038,62210000628,Refrigerated Margherita Pizza,Delissio,CAT008,Deli & Ready Meals,Refrigerated Pizza,SUP008,Premium Deli Foods,450 g,6.99,9.99,30,1,12,Active
+P000629,DEL-0039,62210000629,Refrigerated Pepperoni Pizza,Delissio,CAT008,Deli & Ready Meals,Refrigerated Pizza,SUP008,Premium Deli Foods,500 g,7.49,10.49,29,1,12,Active
+P000630,DEL-0040,62210000630,Garlic Bread,Olivieri,CAT008,Deli & Ready Meals,Ready-to-Bake,SUP008,Premium Deli Foods,330 g,3.49,5.29,34,1,18,Active
+P000631,DEL-0041,62210000631,Mild Cheddar Cheese Tray,Black Diamond,CAT008,Deli & Ready Meals,Party Trays,SUP001,Fresh Dairy Co.,300 g,8.49,12.49,32,1,10,Active
+P000632,DEL-0042,62210000632,Charcuterie Snack Pack,Mastro,CAT008,Deli & Ready Meals,Charcuterie,SUP008,Premium Deli Foods,200 g,7.99,11.49,30,1,10,Active
+P000633,DEL-0043,62210000633,Classic Hummus,Sabra,CAT008,Deli & Ready Meals,Dips,SUP008,Premium Deli Foods,227 g,3.99,5.79,31,1,18,Active
+P000634,DEL-0044,62210000634,Roasted Red Pepper Hummus,Sabra,CAT008,Deli & Ready Meals,Dips,SUP008,Premium Deli Foods,227 g,4.19,5.99,30,1,18,Active
+P000635,DEL-0045,62210000635,Chunky Guacamole,Wholly Guacamole,CAT008,Deli & Ready Meals,Dips,SUP003,Valley Produce Supply,227 g,4.99,7.29,31,1,15,Active
+P000636,DEL-0046,62210000636,Fresh Mild Salsa,Garden Fresh,CAT008,Deli & Ready Meals,Dips,SUP003,Valley Produce Supply,454 g,3.99,5.79,31,1,18,Active
+P000637,DEL-0047,62210000637,Spinach Dip,Fontaine Santé,CAT008,Deli & Ready Meals,Dips,SUP008,Premium Deli Foods,250 g,4.29,6.29,32,1,15,Active
+P000638,DEL-0048,62210000638,Bruschetta Topping,Summer Fresh,CAT008,Deli & Ready Meals,Dips,SUP008,Premium Deli Foods,250 g,4.49,6.49,31,1,15,Active
+P000639,DEL-0049,62210000639,Party Vegetable Tray,Taylor Farms,CAT008,Deli & Ready Meals,Party Trays,SUP003,Valley Produce Supply,Each,9.99,14.49,31,1,8,Active
+P000640,DEL-0050,62210000640,Stir Fry Meal Kit,Taylor Farms,CAT008,Deli & Ready Meals,Meal Kits,SUP003,Valley Produce Supply,600 g,7.49,10.99,32,1,10,Active
+P000641,MET-0001,62210000641,Boneless Skinless Chicken Breast,Maple Lodge Farms,CAT009,Meat & Seafood,Fresh Chicken,SUP009,Prime Meat Packers,kg,10.99,15.99,31,0,12,Active
+P000642,MET-0002,62210000642,Chicken Drumsticks,Maple Lodge Farms,CAT009,Meat & Seafood,Fresh Chicken,SUP009,Prime Meat Packers,kg,5.99,8.99,33,0,18,Active
+P000643,MET-0003,62210000643,Chicken Thighs,Maple Lodge Farms,CAT009,Meat & Seafood,Fresh Chicken,SUP009,Prime Meat Packers,kg,7.49,10.99,32,0,15,Active
+P000644,MET-0004,62210000644,Whole Chicken,Maple Lodge Farms,CAT009,Meat & Seafood,Fresh Chicken,SUP009,Prime Meat Packers,Each,11.99,16.99,29,0,10,Active
+P000645,MET-0005,62210000645,Chicken Wings,Maple Lodge Farms,CAT009,Meat & Seafood,Fresh Chicken,SUP009,Prime Meat Packers,kg,8.49,12.49,32,0,15,Active
+P000646,MET-0006,62210000646,Lean Ground Beef,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,11.99,17.49,31,0,12,Active
+P000647,MET-0007,62210000647,Extra Lean Ground Beef,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,12.99,18.99,32,0,10,Active
+P000648,MET-0008,62210000648,Sirloin Steak,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,20.99,29.99,30,0,8,Active
+P000649,MET-0009,62210000649,Ribeye Steak,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,26.99,37.99,29,0,6,Active
+P000650,MET-0010,62210000650,Beef Stew Cubes,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,13.99,19.99,30,0,10,Active
+P000651,MET-0011,62210000651,Pork Chops,Olymel,CAT009,Meat & Seafood,Fresh Pork,SUP009,Prime Meat Packers,kg,8.99,12.99,31,0,12,Active
+P000652,MET-0012,62210000652,Pork Tenderloin,Olymel,CAT009,Meat & Seafood,Fresh Pork,SUP009,Prime Meat Packers,kg,10.99,15.99,31,0,10,Active
+P000653,MET-0013,62210000653,Pork Shoulder Roast,Olymel,CAT009,Meat & Seafood,Fresh Pork,SUP009,Prime Meat Packers,kg,8.49,12.49,32,0,10,Active
+P000654,MET-0014,62210000654,Pork Back Ribs,Olymel,CAT009,Meat & Seafood,Fresh Pork,SUP009,Prime Meat Packers,kg,10.99,15.99,31,0,10,Active
+P000655,MET-0015,62210000655,Ground Pork,Olymel,CAT009,Meat & Seafood,Fresh Pork,SUP009,Prime Meat Packers,kg,7.49,10.99,32,0,12,Active
+P000656,MET-0016,62210000656,Lamb Chops,New Zealand Lamb,CAT009,Meat & Seafood,Lamb,SUP009,Prime Meat Packers,kg,24.99,35.99,31,0,6,Active
+P000657,MET-0017,62210000657,Lamb Leg Roast,New Zealand Lamb,CAT009,Meat & Seafood,Lamb,SUP009,Prime Meat Packers,kg,22.99,32.99,30,0,6,Active
+P000658,MET-0018,62210000658,Ground Lamb,New Zealand Lamb,CAT009,Meat & Seafood,Lamb,SUP009,Prime Meat Packers,kg,16.99,24.99,32,0,8,Active
+P000659,MET-0019,62210000659,Beef Short Ribs,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,15.99,22.99,30,0,8,Active
+P000660,MET-0020,62210000660,Beef Striploin Steak,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,23.99,33.99,29,0,6,Active
+P000661,MET-0021,62210000661,Atlantic Salmon Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,21.99,31.99,31,0,8,Active
+P000662,MET-0022,62210000662,Sockeye Salmon Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,25.99,36.99,30,0,6,Active
+P000663,MET-0023,62210000663,Steelhead Trout Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,18.99,27.49,31,0,8,Active
+P000664,MET-0024,62210000664,Tilapia Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,13.99,19.99,30,0,10,Active
+P000665,MET-0025,62210000665,Cod Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,16.99,24.49,31,0,8,Active
+P000666,MET-0026,62210000666,Haddock Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,17.49,24.99,30,0,8,Active
+P000667,MET-0027,62210000667,Halibut Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,29.99,42.99,30,0,5,Active
+P000668,MET-0028,62210000668,Fresh Tuna Steaks,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,24.99,35.99,31,0,6,Active
+P000669,MET-0029,62210000669,Raw Large Shrimp,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,454 g,10.99,15.99,31,0,12,Active
+P000670,MET-0030,62210000670,Cooked Shrimp Ring,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,450 g,12.99,18.49,30,0,10,Active
+P000671,MET-0031,62210000671,Raw Scallops,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,300 g,12.49,17.99,31,0,8,Active
+P000672,MET-0032,62210000672,Fresh Mussels,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,1 kg,7.99,11.49,31,0,12,Active
+P000673,MET-0033,62210000673,Fresh Clams,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,1 kg,8.99,12.99,31,0,10,Active
+P000674,MET-0034,62210000674,S0w Crab Legs,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,27.99,39.99,30,0,5,Active
+P000675,MET-0035,62210000675,Lobster Tails,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,2 Pack,24.99,35.99,31,0,5,Active
+P000676,MET-0036,62210000676,Smoked Atlantic Salmon,Ocean Wise,CAT009,Meat & Seafood,Seafood Specialties,SUP009,Pacific Seafood Supply,113 g,7.99,11.49,30,0,12,Active
+P000677,MET-0037,62210000677,Garlic Butter Shrimp Skewers,Ocean Wise,CAT009,Meat & Seafood,Marinated Seafood,SUP009,Pacific Seafood Supply,400 g,11.99,16.99,29,0,10,Active
+P000678,MET-0038,62210000678,Lemon Pepper Salmon,Ocean Wise,CAT009,Meat & Seafood,Marinated Seafood,SUP009,Pacific Seafood Supply,450 g,13.49,18.99,29,0,8,Active
+P000679,MET-0039,62210000679,Seafood Medley,Ocean Wise,CAT009,Meat & Seafood,Seafood Mix,SUP009,Pacific Seafood Supply,500 g,11.49,16.49,30,0,10,Active
+P000680,MET-0040,62210000680,Crab Cakes,Ocean Wise,CAT009,Meat & Seafood,Seafood Specialties,SUP009,Pacific Seafood Supply,300 g,8.99,12.99,31,0,10,Active
+P000681,MET-0041,62210000681,Mild Italian Sausages,Johnsonville,CAT009,Meat & Seafood,Fresh Sausages,SUP009,Prime Meat Packers,500 g,6.99,9.99,30,0,12,Active
+P000682,MET-0042,62210000682,Hot Italian Sausages,Johnsonville,CAT009,Meat & Seafood,Fresh Sausages,SUP009,Prime Meat Packers,500 g,6.99,9.99,30,0,12,Active
+P000683,MET-0043,62210000683,Honey Garlic Sausages,Johnsonville,CAT009,Meat & Seafood,Fresh Sausages,SUP009,Prime Meat Packers,500 g,7.29,10.49,31,0,12,Active
+P000684,MET-0044,62210000684,Breakfast Sausages,Maple Leaf,CAT009,Meat & Seafood,Breakfast Sausage,SUP009,Prime Meat Packers,375 g,5.99,8.49,29,0,15,Active
+P000685,MET-0045,62210000685,Beef Meatballs,Cooked Perfect,CAT009,Meat & Seafood,Meatballs,SUP009,Prime Meat Packers,680 g,8.49,11.99,29,0,10,Active
+P000686,MET-0046,62210000686,Italian Meatballs,Cooked Perfect,CAT009,Meat & Seafood,Meatballs,SUP009,Prime Meat Packers,680 g,8.49,11.99,29,0,10,Active
+P000687,MET-0047,62210000687,Marinated Chicken Breast,Maple Lodge Farms,CAT009,Meat & Seafood,Marinated Chicken,SUP009,Prime Meat Packers,kg,12.99,18.49,30,0,10,Active
+P000688,MET-0048,62210000688,Lemon Herb Chicken Breast,Maple Lodge Farms,CAT009,Meat & Seafood,Marinated Chicken,SUP009,Prime Meat Packers,kg,13.49,18.99,29,0,10,Active
+P000689,MET-0049,62210000689,Teriyaki Chicken Thighs,Maple Lodge Farms,CAT009,Meat & Seafood,Marinated Chicken,SUP009,Prime Meat Packers,kg,11.99,16.99,29,0,10,Active
+P000690,MET-0050,62210000690,Angus Beef Burgers,Canada AAA,CAT009,Meat & Seafood,Burger Patties,SUP009,Prime Meat Packers,6 Pack,10.99,15.49,29,0,10,Active
+P000691,MET-0051,62210000691,Lean Beef Burgers,Canada AAA,CAT009,Meat & Seafood,Burger Patties,SUP009,Prime Meat Packers,6 Pack,9.99,13.99,29,0,10,Active
+P000692,MET-0052,62210000692,Gourmet Beef Burgers,President's Choice,CAT009,Meat & Seafood,Burger Patties,SUP009,Prime Meat Packers,4 Pack,11.49,16.49,30,0,8,Active
+P000693,MET-0053,62210000693,Ground Chicken,Maple Lodge Farms,CAT009,Meat & Seafood,Ground Poultry,SUP009,Prime Meat Packers,450 g,6.49,9.29,30,0,12,Active
+P000694,MET-0054,62210000694,Ground Turkey,Butterball,CAT009,Meat & Seafood,Ground Poultry,SUP009,Prime Meat Packers,450 g,6.99,9.99,30,0,12,Active
+P000695,MET-0055,62210000695,Seasoned Taco Beef,Canada AAA,CAT009,Meat & Seafood,Seasoned Ground Meat,SUP009,Prime Meat Packers,450 g,7.49,10.99,32,0,10,Active
+P000696,MET-0056,62210000696,Italian Seasoned Ground Pork,Olymel,CAT009,Meat & Seafood,Seasoned Ground Meat,SUP009,Prime Meat Packers,450 g,6.99,9.99,30,0,10,Active
+P000697,MET-0057,62210000697,Family Pack Chicken Breasts,Maple Lodge Farms,CAT009,Meat & Seafood,Family Packs,SUP009,Prime Meat Packers,2 kg,21.99,30.99,29,0,8,Active
+P000698,MET-0058,62210000698,Family Pack Ground Beef,Canada AAA,CAT009,Meat & Seafood,Family Packs,SUP009,Prime Meat Packers,2 kg,22.99,31.99,28,0,8,Active
+P000699,MET-0059,62210000699,Family Pack Pork Chops,Olymel,CAT009,Meat & Seafood,Family Packs,SUP009,Prime Meat Packers,2 kg,18.99,26.99,30,0,8,Active
+P000700,MET-0060,62210000700,Family Pack Chicken Drumsticks,Maple Lodge Farms,CAT009,Meat & Seafood,Family Packs,SUP009,Prime Meat Packers,2 kg,12.99,18.49,30,0,10,Active
+P000701,MET-0061,62210000701,Smoked Bratwurst Sausages,Johnsonville,CAT009,Meat & Seafood,Fresh Sausages,SUP009,Prime Meat Packers,500 g,7.49,10.99,32,0,12,Active
+P000702,MET-0062,62210000702,Garlic Pork Sausages,Johnsonville,CAT009,Meat & Seafood,Fresh Sausages,SUP009,Prime Meat Packers,500 g,7.29,10.49,31,0,12,Active
+P000703,MET-0063,62210000703,Beef Blade Roast,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,16.99,24.49,31,0,8,Active
+P000704,MET-0064,62210000704,Prime Rib Roast,Canada AAA,CAT009,Meat & Seafood,Fresh Beef,SUP009,Prime Meat Packers,kg,29.99,42.99,30,0,5,Active
+P000705,MET-0065,62210000705,Pork Loin Roast,Olymel,CAT009,Meat & Seafood,Fresh Pork,SUP009,Prime Meat Packers,kg,10.99,15.99,31,0,8,Active
+P000706,MET-0066,62210000706,Whole Turkey,Butterball,CAT009,Meat & Seafood,Poultry,SUP009,Prime Meat Packers,Each,24.99,35.99,31,0,5,Active
+P000707,MET-0067,62210000707,Seafood Platter,Ocean Wise,CAT009,Meat & Seafood,Seafood Specialties,SUP009,Pacific Seafood Supply,700 g,18.99,27.49,31,0,8,Active
+P000708,MET-0068,62210000708,Jumbo Raw Shrimp,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,680 g,15.99,22.99,30,0,8,Active
+P000709,MET-0069,62210000709,Marinated Chicken Wings,Maple Lodge Farms,CAT009,Meat & Seafood,Marinated Chicken,SUP009,Prime Meat Packers,1 kg,11.99,16.99,29,0,10,Active
+P000710,MET-0070,62210000710,Rainbow Trout Fillets,Ocean Wise,CAT009,Meat & Seafood,Fresh Seafood,SUP009,Pacific Seafood Supply,kg,19.99,28.99,31,0,8,Active
+P000711,HOU-0001,62210000711,Original Liquid Laundry Detergent,Tide,CAT010,Household,Laundry Detergent,SUP010,Clean Living Supply,2.95 L,12.99,18.99,32,1,12,Active
+P000712,HOU-0002,62210000712,Free & Gentle Laundry Detergent,Tide,CAT010,Household,Laundry Detergent,SUP010,Clean Living Supply,2.95 L,13.49,19.49,31,1,12,Active
+P000713,HOU-0003,62210000713,Original Liquid Laundry Detergent,Gain,CAT010,Household,Laundry Detergent,SUP010,Clean Living Supply,2.95 L,11.99,17.49,31,1,12,Active
+P000714,HOU-0004,62210000714,Laundry Pods,Tide Pods,CAT010,Household,Laundry Detergent,SUP010,Clean Living Supply,42 Count,14.99,21.99,32,1,10,Active
+P000715,HOU-0005,62210000715,Laundry Pods,Gain Flings,CAT010,Household,Laundry Detergent,SUP010,Clean Living Supply,42 Count,14.49,20.99,31,1,10,Active
+P000716,HOU-0006,62210000716,Ultra Fabric Softener,Downy,CAT010,Household,Laundry Care,SUP010,Clean Living Supply,1.53 L,8.99,12.99,31,1,15,Active
+P000717,HOU-0007,62210000717,Dryer Sheets,Bounce,CAT010,Household,Laundry Care,SUP010,Clean Living Supply,160 Count,7.99,11.49,30,1,15,Active
+P000718,HOU-0008,62210000718,OxiClean Stain Remover,OxiClean,CAT010,Household,Laundry Care,SUP010,Clean Living Supply,1.77 kg,9.99,14.49,31,1,12,Active
+P000719,HOU-0009,62210000719,Ultra Dish Soap Original,Dawn,CAT010,Household,Dishwashing,SUP010,Clean Living Supply,532 mL,3.49,4.99,30,1,20,Active
+P000720,HOU-0010,62210000720,Ultra Dish Soap Platinum,Dawn,CAT010,Household,Dishwashing,SUP010,Clean Living Supply,709 mL,4.49,6.49,31,1,18,Active
+P000721,HOU-0011,62210000721,Dishwasher Tabs,Cascade,CAT010,Household,Dishwashing,SUP010,Clean Living Supply,62 Count,13.99,19.99,30,1,10,Active
+P000722,HOU-0012,62210000722,Lemon Dish Soap,Palmolive,CAT010,Household,Dishwashing,SUP010,Clean Living Supply,591 mL,3.29,4.79,31,1,20,Active
+P000723,HOU-0013,62210000723,Premium Paper Towels,Bounty,CAT010,Household,Paper Products,SUP010,Clean Living Supply,6 Rolls,9.99,14.49,31,1,12,Active
+P000724,HOU-0014,62210000724,Bathroom Tissue,Charmin,CAT010,Household,Paper Products,SUP010,Clean Living Supply,12 Rolls,10.99,15.99,31,1,10,Active
+P000725,HOU-0015,62210000725,Facial Tissue,Kleenex,CAT010,Household,Paper Products,SUP010,Clean Living Supply,6 Pack,8.49,11.99,29,1,12,Active
+P000726,HOU-0016,62210000726,Premium Napkins,Royale,CAT010,Household,Paper Products,SUP010,Clean Living Supply,250 Count,3.99,5.79,31,1,18,Active
+P000727,HOU-0017,62210000727,Multi-Surface Cleaner,Lysol,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,650 mL,4.99,7.19,31,1,15,Active
+P000728,HOU-0018,62210000728,Bathroom Cleaner,Scrubbing Bubbles,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,946 mL,4.79,6.99,32,1,15,Active
+P000729,HOU-0019,62210000729,Glass Cleaner,Windex,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,765 mL,4.29,6.29,32,1,15,Active
+P000730,HOU-0020,62210000730,Disinfecting Wipes,Lysol,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,80 Count,5.99,8.49,29,1,15,Active
+P000731,HOU-0021,62210000731,Tall Kitchen Garbage Bags,Glad,CAT010,Household,Garbage Bags,SUP010,Clean Living Supply,40 Count,8.99,12.99,31,1,15,Active
+P000732,HOU-0022,62210000732,Drawstring Garbage Bags,Glad,CAT010,Household,Garbage Bags,SUP010,Clean Living Supply,30 Count,7.99,11.49,30,1,15,Active
+P000733,HOU-0023,62210000733,Recycling Bags,Glad,CAT010,Household,Garbage Bags,SUP010,Clean Living Supply,20 Count,6.49,9.29,30,1,18,Active
+P000734,HOU-0024,62210000734,Freezer Storage Bags,Ziploc,CAT010,Household,Food Storage,SUP010,Clean Living Supply,28 Count,4.99,7.19,31,1,18,Active
+P000735,HOU-0025,62210000735,Sandwich Bags,Ziploc,CAT010,Household,Food Storage,SUP010,Clean Living Supply,90 Count,4.29,6.19,31,1,20,Active
+P000736,HOU-0026,62210000736,Snack Bags,Ziploc,CAT010,Household,Food Storage,SUP010,Clean Living Supply,125 Count,4.29,6.19,31,1,20,Active
+P000737,HOU-0027,62210000737,Plastic Wrap,Glad,CAT010,Household,Food Storage,SUP010,Clean Living Supply,60 m,3.99,5.79,31,1,18,Active
+P000738,HOU-0028,62210000738,Aluminum Foil,Rey0lds,CAT010,Household,Food Storage,SUP010,Clean Living Supply,50 m,5.49,7.99,31,1,15,Active
+P000739,HOU-0029,62210000739,Parchment Paper,Rey0lds,CAT010,Household,Food Storage,SUP010,Clean Living Supply,25 m,4.99,7.19,31,1,15,Active
+P000740,HOU-0030,62210000740,Wax Paper,Rey0lds,CAT010,Household,Food Storage,SUP010,Clean Living Supply,23 m,3.49,4.99,30,1,18,Active
+P000741,HOU-0031,62210000741,Air Freshener Spray,Febreze,CAT010,Household,Air Fresheners,SUP010,Clean Living Supply,250 g,4.99,7.19,31,1,15,Active
+P000742,HOU-0032,62210000742,Plug-In Air Freshener,Air Wick,CAT010,Household,Air Fresheners,SUP010,Clean Living Supply,Starter Kit,6.99,9.99,30,1,12,Active
+P000743,HOU-0033,62210000743,Scented Candle,Glade,CAT010,Household,Air Fresheners,SUP010,Clean Living Supply,170 g,5.49,7.99,31,1,12,Active
+P000744,HOU-0034,62210000744,Toilet Bowl Cleaner,Lysol,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,710 mL,3.99,5.79,31,1,18,Active
+P000745,HOU-0035,62210000745,Floor Cleaner,Pine-Sol,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,1.4 L,5.99,8.49,29,1,15,Active
+P000746,HOU-0036,62210000746,Liquid Bleach,Clorox,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,1.89 L,4.99,7.19,31,1,15,Active
+P000747,HOU-0037,62210000747,Magic Eraser,Mr. Clean,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,2 Pack,4.99,7.29,32,1,18,Active
+P000748,HOU-0038,62210000748,Heavy Duty Scrub Sponge,Scotch-Brite,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,3 Pack,3.49,4.99,30,1,20,Active
+P000749,HOU-0039,62210000749,Microfiber Cleaning Cloths,Scotch-Brite,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,6 Pack,5.99,8.49,29,1,15,Active
+P000750,HOU-0040,62210000750,Rubber Cleaning Gloves,Playtex,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,1 Pair,3.99,5.79,31,1,20,Active
+P000751,HOU-0041,62210000751,Furniture Polish,Pledge,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,275 g,5.49,7.99,31,1,15,Active
+P000752,HOU-0042,62210000752,Stainless Steel Cleaner,Weiman,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,355 mL,6.49,9.29,30,1,12,Active
+P000753,HOU-0043,62210000753,Drain Cleaner,Dra0,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,900 mL,7.99,11.49,30,1,12,Active
+P000754,HOU-0044,62210000754,Mold & Mildew Remover,Tilex,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,946 mL,5.99,8.49,29,1,15,Active
+P000755,HOU-0045,62210000755,Oven Cleaner,Easy-Off,CAT010,Household,Cleaning Supplies,SUP010,Clean Living Supply,400 g,5.49,7.99,31,1,15,Active
+P000756,HOU-0046,62210000756,Spray Mop Refill,Swiffer,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,Each,7.49,10.99,32,1,12,Active
+P000757,HOU-0047,62210000757,Indoor Broom,Rubbermaid,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,Each,8.99,12.99,31,1,10,Active
+P000758,HOU-0048,62210000758,Dustpan & Brush Set,Rubbermaid,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,Set,5.99,8.49,29,1,12,Active
+P000759,HOU-0049,62210000759,Toilet Brush,Clorox,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,Each,4.99,7.19,31,1,15,Active
+P000760,HOU-0050,62210000760,Lint Roller,Scotch-Brite,CAT010,Household,Cleaning Tools,SUP010,Clean Living Supply,60 Sheets,3.99,5.79,31,1,18,Active
+P000761,HOU-0051,62210000761,Laundry Basket,Sterilite,CAT010,Household,Storage & Organization,SUP010,Clean Living Supply,Each,8.99,12.99,31,1,8,Active
+P000762,HOU-0052,62210000762,Wooden Clothespins,Home Essentials,CAT010,Household,Laundry Accessories,SUP010,Clean Living Supply,50 Count,2.99,4.29,30,1,20,Active
+P000763,HOU-0053,62210000763,AA Alkaline Batteries,Duracell,CAT010,Household,Batteries,SUP010,Clean Living Supply,8 Pack,9.99,14.49,31,1,10,Active
+P000764,HOU-0054,62210000764,AAA Alkaline Batteries,Energizer,CAT010,Household,Batteries,SUP010,Clean Living Supply,8 Pack,9.99,14.49,31,1,10,Active
+P000765,HOU-0055,62210000765,LED Light Bulbs,Philips,CAT010,Household,Lighting,SUP010,Clean Living Supply,4 Pack,8.99,12.99,31,1,10,Active
+P000766,HOU-0056,62210000766,Ant & Roach Killer Spray,Raid,CAT010,Household,Pest Control,SUP010,Clean Living Supply,350 g,6.99,9.99,30,1,12,Active
+P000767,HOU-0057,62210000767,Adhesive Wall Hooks,Command,CAT010,Household,Home Essentials,SUP010,Clean Living Supply,6 Pack,5.99,8.49,29,1,15,Active
+P000768,HOU-0058,62210000768,Super Glue,Krazy Glue,CAT010,Household,Home Essentials,SUP010,Clean Living Supply,2 g,2.99,4.49,33,1,20,Active
+P000769,HOU-0059,62210000769,Heavy Duty Packing Tape,Scotch,CAT010,Household,Home Essentials,SUP010,Clean Living Supply,48 mm × 50 m,4.99,7.19,31,1,15,Active
+P000770,HOU-0060,62210000770,Extension Cord 6 ft,Woods,CAT010,Household,Electrical,SUP010,Clean Living Supply,Each,8.99,12.99,31,1,10,Active
+P000771,PER-0001,62210000771,Total Clean Toothpaste,Colgate,CAT011,Personal Care,Toothpaste,SUP011,Everyday Health Supply,170 g,2.99,4.49,33,1,20,Active
+P000772,PER-0002,62210000772,Cavity Protection Toothpaste,Crest,CAT011,Personal Care,Toothpaste,SUP011,Everyday Health Supply,170 g,2.99,4.49,33,1,20,Active
+P000773,PER-0003,62210000773,Sensitive Toothpaste,Sensodyne,CAT011,Personal Care,Toothpaste,SUP011,Everyday Health Supply,100 g,5.99,8.49,29,1,15,Active
+P000774,PER-0004,62210000774,Whitening Toothpaste,Colgate,CAT011,Personal Care,Toothpaste,SUP011,Everyday Health Supply,170 g,3.49,4.99,30,1,18,Active
+P000775,PER-0005,62210000775,Soft Toothbrush,Oral-B,CAT011,Personal Care,Toothbrush,SUP011,Everyday Health Supply,Each,2.99,4.49,33,1,25,Active
+P000776,PER-0006,62210000776,Medium Toothbrush,Oral-B,CAT011,Personal Care,Toothbrush,SUP011,Everyday Health Supply,Each,2.99,4.49,33,1,25,Active
+P000777,PER-0007,62210000777,Electric Toothbrush Heads,Oral-B,CAT011,Personal Care,Oral Care,SUP011,Everyday Health Supply,2 Pack,14.99,20.99,29,1,10,Active
+P000778,PER-0008,62210000778,Cool Mint Mouthwash,Listerine,CAT011,Personal Care,Mouthwash,SUP011,Everyday Health Supply,1 L,5.99,8.49,29,1,15,Active
+P000779,PER-0009,62210000779,Zero Alcohol Mouthwash,Listerine,CAT011,Personal Care,Mouthwash,SUP011,Everyday Health Supply,1 L,6.29,8.99,30,1,15,Active
+P000780,PER-0010,62210000780,Dental Floss,Oral-B,CAT011,Personal Care,Oral Care,SUP011,Everyday Health Supply,50 m,2.49,3.69,32,1,25,Active
+P000781,PER-0011,62210000781,Moisturizing Body Wash,Dove,CAT011,Personal Care,Body Wash,SUP011,Everyday Health Supply,532 mL,5.49,7.99,31,1,15,Active
+P000782,PER-0012,62210000782,Deep Clean Body Wash,Irish Spring,CAT011,Personal Care,Body Wash,SUP011,Everyday Health Supply,532 mL,4.99,7.19,31,1,15,Active
+P000783,PER-0013,62210000783,Beauty Bar Soap,Dove,CAT011,Personal Care,Bar Soap,SUP011,Everyday Health Supply,4 Pack,5.99,8.49,29,1,15,Active
+P000784,PER-0014,62210000784,Original Bar Soap,Irish Spring,CAT011,Personal Care,Bar Soap,SUP011,Everyday Health Supply,6 Pack,4.99,7.19,31,1,15,Active
+P000785,PER-0015,62210000785,Daily Shampoo,Pantene,CAT011,Personal Care,Shampoo,SUP011,Everyday Health Supply,355 mL,5.99,8.49,29,1,15,Active
+P000786,PER-0016,62210000786,Repair & Protect Shampoo,Pantene,CAT011,Personal Care,Shampoo,SUP011,Everyday Health Supply,355 mL,6.29,8.99,30,1,15,Active
+P000787,PER-0017,62210000787,Daily Conditioner,Pantene,CAT011,Personal Care,Conditioner,SUP011,Everyday Health Supply,355 mL,5.99,8.49,29,1,15,Active
+P000788,PER-0018,62210000788,Coconut Conditioner,Herbal Essences,CAT011,Personal Care,Conditioner,SUP011,Everyday Health Supply,400 mL,5.99,8.49,29,1,15,Active
+P000789,PER-0019,62210000789,Daily Moisturizing Lotion,Vaseline,CAT011,Personal Care,Lotion,SUP011,Everyday Health Supply,600 mL,6.99,9.99,30,1,12,Active
+P000790,PER-0020,62210000790,Intensive Care Lotion,Vaseline,CAT011,Personal Care,Lotion,SUP011,Everyday Health Supply,600 mL,6.99,9.99,30,1,12,Active
+P000791,PER-0021,62210000791,Mach3 Razor,Gillette,CAT011,Personal Care,Razors,SUP011,Everyday Health Supply,Each,8.99,12.99,31,1,12,Active
+P000792,PER-0022,62210000792,Sensor3 Disposable Razors,Gillette,CAT011,Personal Care,Razors,SUP011,Everyday Health Supply,4 Pack,7.49,10.99,32,1,12,Active
+P000793,PER-0023,62210000793,Venus ComfortGlide Razor,Gillette,CAT011,Personal Care,Razors,SUP011,Everyday Health Supply,Each,9.99,14.49,31,1,10,Active
+P000794,PER-0024,62210000794,Sensitive Shaving Foam,Gillette,CAT011,Personal Care,Shaving Cream,SUP011,Everyday Health Supply,311 g,3.99,5.79,31,1,18,Active
+P000795,PER-0025,62210000795,Original Shaving Cream,Nivea Men,CAT011,Personal Care,Shaving Cream,SUP011,Everyday Health Supply,200 mL,4.49,6.49,31,1,18,Active
+P000796,PER-0026,62210000796,Cool Rush Deodorant,Degree Men,CAT011,Personal Care,Deodorant,SUP011,Everyday Health Supply,76 g,4.99,7.19,31,1,18,Active
+P000797,PER-0027,62210000797,Invisible Solid Deodorant,Dove Men+Care,CAT011,Personal Care,Deodorant,SUP011,Everyday Health Supply,76 g,5.29,7.69,31,1,18,Active
+P000798,PER-0028,62210000798,Powder Fresh Deodorant,Secret,CAT011,Personal Care,Deodorant,SUP011,Everyday Health Supply,73 g,5.29,7.69,31,1,18,Active
+P000799,PER-0029,62210000799,Fresh Antiperspirant Spray,Axe,CAT011,Personal Care,Deodorant,SUP011,Everyday Health Supply,150 mL,5.49,7.99,31,1,15,Active
+P000800,PER-0030,62210000800,Hair Styling Gel,Got2b,CAT011,Personal Care,Hair Styling,SUP011,Everyday Health Supply,170 g,4.99,7.19,31,1,15,Active
+P000801,PER-0031,62210000801,Hair Spray,Tresemmé,CAT011,Personal Care,Hair Styling,SUP011,Everyday Health Supply,311 g,5.49,7.99,31,1,15,Active
+P000802,PER-0032,62210000802,Hair Mousse,Tresemmé,CAT011,Personal Care,Hair Styling,SUP011,Everyday Health Supply,255 g,5.49,7.99,31,1,15,Active
+P000803,PER-0033,62210000803,Ultra Thin Pads,Always,CAT011,Personal Care,Feminine Hygiene,SUP011,Everyday Health Supply,28 Count,6.99,9.99,30,1,12,Active
+P000804,PER-0034,62210000804,Tampons Regular,Tampax,CAT011,Personal Care,Feminine Hygiene,SUP011,Everyday Health Supply,20 Count,6.99,9.99,30,1,12,Active
+P000805,PER-0035,62210000805,Baby Wipes,Pampers,CAT011,Personal Care,Baby Care,SUP011,Everyday Health Supply,168 Count,5.99,8.49,29,1,15,Active
+P000806,PER-0036,62210000806,Baby Shampoo,Johnson's,CAT011,Personal Care,Baby Care,SUP011,Everyday Health Supply,500 mL,5.49,7.99,31,1,15,Active
+P000807,PER-0037,62210000807,Baby Lotion,Johnson's,CAT011,Personal Care,Baby Care,SUP011,Everyday Health Supply,500 mL,5.49,7.99,31,1,15,Active
+P000808,PER-0038,62210000808,Cotton Swabs,Q-tips,CAT011,Personal Care,Cotton Products,SUP011,Everyday Health Supply,500 Count,3.49,4.99,30,1,20,Active
+P000809,PER-0039,62210000809,Cotton Balls,Swisspers,CAT011,Personal Care,Cotton Products,SUP011,Everyday Health Supply,200 Count,2.99,4.29,30,1,20,Active
+P000810,PER-0040,62210000810,Classic Lip Balm,Burt's Bees,CAT011,Personal Care,Lip Care,SUP011,Everyday Health Supply,4.25 g,3.49,4.99,30,1,20,Active
+P000811,PER-0041,62210000811,SPF 50 Sunscreen Lotion,Coppertone,CAT011,Personal Care,Sun Care,SUP011,Everyday Health Supply,177 mL,8.99,12.99,31,1,12,Active
+P000812,PER-0042,62210000812,Kids Sunscreen Spray SPF 50,Banana Boat,CAT011,Personal Care,Sun Care,SUP011,Everyday Health Supply,170 g,9.49,13.49,30,1,12,Active
+P000813,PER-0043,62210000813,Hand Sanitizer,Purell,CAT011,Personal Care,Hand Care,SUP011,Everyday Health Supply,236 mL,3.99,5.79,31,1,20,Active
+P000814,PER-0044,62210000814,Foaming Hand Soap,Softsoap,CAT011,Personal Care,Hand Care,SUP011,Everyday Health Supply,221 mL,2.99,4.29,30,1,20,Active
+P000815,PER-0045,62210000815,Hydrating Face Wash,Cetaphil,CAT011,Personal Care,Facial Care,SUP011,Everyday Health Supply,473 mL,9.99,14.49,31,1,12,Active
+P000816,PER-0046,62210000816,Foaming Facial Cleanser,CeraVe,CAT011,Personal Care,Facial Care,SUP011,Everyday Health Supply,355 mL,11.49,16.49,30,1,10,Active
+P000817,PER-0047,62210000817,Daily Facial Moisturizer,CeraVe,CAT011,Personal Care,Facial Care,SUP011,Everyday Health Supply,355 mL,12.99,18.49,30,1,10,Active
+P000818,PER-0048,62210000818,Acne Foaming Cleanser,Neutrogena,CAT011,Personal Care,Acne Care,SUP011,Everyday Health Supply,269 mL,9.49,13.99,32,1,12,Active
+P000819,PER-0049,62210000819,Benzoyl Peroxide Acne Gel,Clean & Clear,CAT011,Personal Care,Acne Care,SUP011,Everyday Health Supply,28 g,5.99,8.49,29,1,15,Active
+P000820,PER-0050,62210000820,Nail Clippers,Trim,CAT011,Personal Care,Nail Care,SUP011,Everyday Health Supply,Each,3.99,5.79,31,1,20,Active
+P000821,PER-0051,62210000821,Nail File Set,Revlon,CAT011,Personal Care,Nail Care,SUP011,Everyday Health Supply,3 Pack,3.49,4.99,30,1,20,Active
+P000822,PER-0052,62210000822,Hair Color Black,Garnier,CAT011,Personal Care,Hair Color,SUP011,Everyday Health Supply,Kit,9.99,14.49,31,1,12,Active
+P000823,PER-0053,62210000823,Hair Color Dark Brown,L'Oréal Paris,CAT011,Personal Care,Hair Color,SUP011,Everyday Health Supply,Kit,10.49,14.99,30,1,12,Active
+P000824,PER-0054,62210000824,Wide Tooth Comb,Goody,CAT011,Personal Care,Hair Accessories,SUP011,Everyday Health Supply,Each,2.99,4.29,30,1,20,Active
+P000825,PER-0055,62210000825,Paddle Hair Brush,Conair,CAT011,Personal Care,Hair Accessories,SUP011,Everyday Health Supply,Each,6.49,9.29,30,1,15,Active
+P000826,PER-0056,62210000826,Travel Toiletry Kit,Dove,CAT011,Personal Care,Travel Essentials,SUP011,Everyday Health Supply,Kit,8.49,11.99,29,1,10,Active
+P000827,PER-0057,62210000827,Disposable Face Masks,3M,CAT011,Personal Care,Personal Protection,SUP011,Everyday Health Supply,20 Pack,7.49,10.99,32,1,12,Active
+P000828,PER-0058,62210000828,Adult Protective Underwear,Depend,CAT011,Personal Care,Incontinence Care,SUP011,Everyday Health Supply,18 Count,14.99,21.49,30,1,10,Active
+P000829,PER-0059,62210000829,Aloe Vera Gel,Fruit of the Earth,CAT011,Personal Care,Skin Care,SUP011,Everyday Health Supply,340 g,5.49,7.99,31,1,15,Active
+P000830,PER-0060,62210000830,Petroleum Jelly,Vaseline,CAT011,Personal Care,Skin Care,SUP011,Everyday Health Supply,375 g,4.49,6.49,31,1,15,Active
+P000831,HLT-0001,62210000831,Extra Strength Acetami0phen,Tyle0l,CAT012,Health & Wellness,Pain Relief,SUP011,Everyday Health Supply,100 Tablets,8.99,12.99,31,1,15,Active
+P000832,HLT-0002,62210000832,Liqui-Gels Ibuprofen,Advil,CAT012,Health & Wellness,Pain Relief,SUP011,Everyday Health Supply,72 Capsules,9.99,14.49,31,1,15,Active
+P000833,HLT-0003,62210000833,Low Dose Aspirin,Bayer,CAT012,Health & Wellness,Pain Relief,SUP011,Everyday Health Supply,120 Tablets,7.99,11.49,30,1,15,Active
+P000834,HLT-0004,62210000834,Children's Acetami0phen,Tyle0l,CAT012,Health & Wellness,Pain Relief,SUP011,Everyday Health Supply,100 mL,8.49,11.99,29,1,12,Active
+P000835,HLT-0005,62210000835,Original Cough Syrup,Buckley's,CAT012,Health & Wellness,Cold & Flu,SUP011,Everyday Health Supply,200 mL,9.49,13.99,32,1,12,Active
+P000836,HLT-0006,62210000836,Complete Cold & Flu Powder,NeoCitran,CAT012,Health & Wellness,Cold & Flu,SUP011,Everyday Health Supply,10 Pack,8.99,12.99,31,1,12,Active
+P000837,HLT-0007,62210000837,VapoRub Ointment,Vicks,CAT012,Health & Wellness,Cold & Flu,SUP011,Everyday Health Supply,115 g,7.49,10.99,32,1,15,Active
+P000838,HLT-0008,62210000838,24 Hour Allergy Tablets,Reactine,CAT012,Health & Wellness,Allergy Relief,SUP011,Everyday Health Supply,24 Tablets,12.99,18.49,30,1,10,Active
+P000839,HLT-0009,62210000839,Allergy Relief Capsules,Benadryl,CAT012,Health & Wellness,Allergy Relief,SUP011,Everyday Health Supply,24 Capsules,9.99,14.49,31,1,12,Active
+P000840,HLT-0010,62210000840,Flexible Fabric Bandages,Band-Aid,CAT012,Health & Wellness,First Aid,SUP011,Everyday Health Supply,80 Count,5.99,8.49,29,1,18,Active
+P000841,HLT-0011,62210000841,Antibiotic Ointment,Polysporin,CAT012,Health & Wellness,First Aid,SUP011,Everyday Health Supply,30 g,6.49,9.29,30,1,15,Active
+P000842,HLT-0012,62210000842,Elastic Compression Bandage,Tensor,CAT012,Health & Wellness,First Aid,SUP011,Everyday Health Supply,Each,5.99,8.49,29,1,15,Active
+P000843,HLT-0013,62210000843,Daily Multivitamin,One A Day,CAT012,Health & Wellness,Vitamins,SUP011,Everyday Health Supply,100 Tablets,10.99,15.99,31,1,12,Active
+P000844,HLT-0014,62210000844,Vitamin C 1000 mg,Jamieson,CAT012,Health & Wellness,Vitamins,SUP011,Everyday Health Supply,100 Tablets,8.99,12.99,31,1,15,Active
+P000845,HLT-0015,62210000845,Vitamin D3,Jamieson,CAT012,Health & Wellness,Vitamins,SUP011,Everyday Health Supply,100 Softgels,8.49,11.99,29,1,15,Active
+P000846,HLT-0016,62210000846,Calcium with Vitamin D,Jamieson,CAT012,Health & Wellness,Vitamins,SUP011,Everyday Health Supply,120 Tablets,9.49,13.99,32,1,12,Active
+P000847,HLT-0017,62210000847,Digital Thermometer,Braun,CAT012,Health & Wellness,Medical Devices,SUP011,Everyday Health Supply,Each,12.99,18.49,30,1,8,Active
+P000848,HLT-0018,62210000848,Automatic Blood Pressure Monitor,Omron,CAT012,Health & Wellness,Medical Devices,SUP011,Everyday Health Supply,Each,39.99,56.99,30,1,5,Active
+P000849,HLT-0019,62210000849,Lubricating Eye Drops,Visine,CAT012,Health & Wellness,Eye Care,SUP011,Everyday Health Supply,15 ml,6.99,9.99,30,1,15,Active
+P000850,HLT-0020,62210000850,Antacid Tablets,Tums,CAT012,Health & Wellness,Digestive Health,SUP011,Everyday Health Supply,100 Tablets,7.49,10.99,32,1,15,Active

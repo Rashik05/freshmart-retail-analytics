@@ -1,0 +1,31 @@
+﻿SupplierID,SupplierName,PrimaryCategoryID,PrimaryCategory,City,Province,PaymentTerms,LeadTimeDays,ContactName,Status
+SUP001,Fresh Dairy Co.,CAT001,Dairy,Vancouver,BC,Net 15,2,Sarah Mitchell,Active
+SUP002,Maple Bakery Supply,CAT002,Bakery,Burnaby,BC,Net 15,2,James Wong,Active
+SUP003,Pacific Produce Ltd.,CAT003,Produce,Richmond,BC,Net 7,1,Emily Chen,Active
+SUP004,Arctic Frozen Foods,CAT004,Frozen Foods,Delta,BC,Net 30,5,David Singh,Active
+SUP005,West Coast Beverages,CAT005,Beverages,Surrey,BC,Net 30,3,Olivia Brown,Active
+SUP006,Snack Hub Distribution,CAT006,Snacks & Candy,Langley,BC,Net 30,4,Noah Wilson,Active
+SUP007,Prime Pantry Foods,CAT007,Pantry & Grocery,Vancouver,BC,Net 30,3,Liam Carter,Active
+SUP008,Urban Deli Foods,CAT008,Deli,Richmond,BC,Net 15,2,Sophia Hall,Active
+SUP009,Ocean Harvest Meats,CAT009,Meat & Seafood,Delta,BC,Net 15,2,Ethan Young,Active
+SUP010,CleanHome Supplies,CAT010,Household,Surrey,BC,Net 30,5,Grace King,Active
+SUP011,Care Essentials,CAT011,Personal Care,Vancouver,BC,Net 30,4,Ava Scott,Active
+SUP012,Wellness Source,CAT012,Health & Wellness,Burnaby,BC,Net 30,4,Lucas White,Active
+SUP013,Golden Valley Foods,CAT007,Pantry & Grocery,Abbotsford,BC,Net 30,5,Mia Green,Inactive
+SUP014,Fresh Choice Farms,CAT003,Produce,Chilliwack,BC,Net 7,1,Benjamin Lee,Active
+SUP015,NorthStar Dairy,CAT001,Dairy,Kelowna,BC,Net 15,2,Ella Adams,Active
+SUP016,Peak Beverage Co.,CAT005,Beverages,Vancouver,BC,Net 30,3,Henry Clark,Active
+SUP017,EverFresh Imports,CAT006,Snacks & Candy,Richmond,BC,Net 30,7,Chloe Evans,Inactive
+SUP018,Harvest Pantry,CAT007,Pantry & Grocery,Surrey,BC,Net 30,4,Jack Lewis,Active
+SUP019,Premium Protein Foods,CAT009,Meat & Seafood,Burnaby,BC,Net 15,2,Harper Walker,Active
+SUP020,Eco Living Products,CAT010,Household,Vancouver,BC,Net 30,5,Daniel Perez,Inactive
+SUP021,Daily Essentials,CAT011,Personal Care,Richmond,BC,Net 30,4,Zoe Turner,Active
+SUP022,Nature First,CAT012,Health & Wellness,Surrey,BC,Net 30,3,Mason Hill,Active
+SUP023,Sunrise Bakery Partners,CAT002,Bakery,Coquitlam,BC,Net 15,2,Amelia Baker,Active
+SUP024,Frozen Select,CAT004,Frozen Foods,Burnaby,BC,Net 30,5,Logan Reed,Inactive
+SUP025,Coastal Grocery Wholesale,CAT007,Pantry & Grocery,Richmond,BC,Net 30,5,Charlotte Moore,Active
+SUP026,Metro Food Imports,CAT007,Pantry & Grocery,Vancouver,BC,Net 30,7,Aiden Ross,Inactive
+SUP027,BC Fresh Market Supply,CAT003,Produce,Delta,BC,Net 7,1,Lily Brooks,Active
+SUP028,Northern Beverage Group,CAT005,Beverages,Surrey,BC,Net 30,3,Owen Kelly,Active
+SUP029,Summit Retail Foods,CAT006,Snacks & Candy,Burnaby,BC,Net 30,4,Hannah Cooper,Inactive
+SUP030,Canadian Wholesale Partners,CAT007,Pantry & Grocery,Richmond,BC,Net 30,6,Matthew Bell,Active

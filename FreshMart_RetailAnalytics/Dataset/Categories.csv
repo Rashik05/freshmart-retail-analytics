@@ -1,0 +1,13 @@
+﻿CategoryID,CategoryName,Description
+CAT001,Dairy,"Milk, cheese, yogurt, butter, eggs"
+CAT002,Bakery,"Bread, buns, bagels, pastries"
+CAT003,Produce,Fresh fruits and vegetables
+CAT004,Frozen Foods,"Frozen meals, vegetables, desserts"
+CAT005,Beverages,"Soft drinks, juice, coffee, tea, water"
+CAT006,Snacks & Candy,"Chips, chocolate, candy, protein bars"
+CAT007,Pantry & Grocery,"Rice, pasta, canned foods, sauces, spices"
+CAT008,Deli & Ready Meals,"Sandwiches, salads, hot meals"
+CAT009,Meat & Seafood,"Fresh meat, poultry, seafood"
+CAT010,Household,"Cleaning supplies, paper products"
+CAT011,Personal Care,"Soap, shampoo, toothpaste, skincare"
+CAT012,Health & Wellness,"Vitamins, supplements, health foods"
