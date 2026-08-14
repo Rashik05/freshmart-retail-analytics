@@ -3,35 +3,27 @@
 End-to-End Retail Business Intelligence Solution using SQL, MySQL, Power BI, DAX, and Power Query.
 
 ---
+
 ## Dashboard Preview
 
-### Home Dashboard
-![Home Dashboard](FreshMart_RetailAnalytics/Dashboards/HomePage.png)
-
----
-
 ### Executive Dashboard
-![Executive Dashboard](FreshMart_RetailAnalytics/Dashboards/Executive%20Dashboard.png)
+![Executive Dashboard](FreshMart_RetailAnalytics/Dasboards/Executive%20Dashboard.png)
 
----
+### Home Dashboard
+![Home Dashboard](FreshMart_RetailAnalytics/Dasboards/HomePage.png)
 
 ### Sales Dashboard
-![Sales Dashboard](FreshMart_RetailAnalytics/Dashboards/Sales%20Insights.png)
-
----
+![Sales Dashboard](FreshMart_RetailAnalytics/Dasboards/Sales%20Insights.png)
 
 ### Inventory Dashboard
-![Inventory Dashboard](FreshMart_RetailAnalytics/Dashboards/Inventory%20Insights.png)
-
----
+![Inventory Dashboard](FreshMart_RetailAnalytics/Dasboards/Inventory%20Insights.png)
 
 ### Supplier Dashboard
-![Supplier Dashboard](FreshMart_RetailAnalytics/Dashboards/Supplier%20Insights.png)
-
----
+![Supplier Dashboard](FreshMart_RetailAnalytics/Dasboards/Supplier%20Insights.png)
 
 ### Product Dashboard
-![Product Dashboard](FreshMart_RetailAnalytics/Dashboards/Product%20Insights.png)
+![Product Dashboard](FreshMart_RetailAnalytics/Dasboards/Product%20Insights.png)
+
 
 ## Project Overview
 
