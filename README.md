@@ -6,24 +6,27 @@ End-to-End Retail Business Intelligence Solution using SQL, MySQL, Power BI, DAX
 
 ## Dashboard Preview
 
-### Executive Dashboard
-![Executive Dashboard](FreshMart_RetailAnalytics/Dasboards/Executive%20Dashboard.png)
+<h3>Home Dashboard</h3>
+<p align="center">
+  <img src="FreshMart_RetailAnalytics/Dasboards/HomePage.png" width="850">
+</p>
 
-### Home Dashboard
-![Home Dashboard](FreshMart_RetailAnalytics/Dasboards/HomePage.png)
+<h3>Executive Dashboard</h3>
+<p align="center">
+  <img src="FreshMart_RetailAnalytics/Dasboards/Executive%20Dashboard.png" width="850">
+</p>
 
-### Sales Dashboard
-![Sales Dashboard](FreshMart_RetailAnalytics/Dasboards/Sales%20Insights.png)
+<h3>Business Insights Dashboards</h3>
 
-### Inventory Dashboard
-![Inventory Dashboard](FreshMart_RetailAnalytics/Dasboards/Inventory%20Insights.png)
+<p align="center">
+  <img src="FreshMart_RetailAnalytics/Dasboards/Sales%20Insights.png" width="48%">
+  <img src="FreshMart_RetailAnalytics/Dasboards/Inventory%20Insights.png" width="48%">
+</p>
 
-### Supplier Dashboard
-![Supplier Dashboard](FreshMart_RetailAnalytics/Dasboards/Supplier%20Insights.png)
-
-### Product Dashboard
-![Product Dashboard](FreshMart_RetailAnalytics/Dasboards/Product%20Insights.png)
-
+<p align="center">
+  <img src="FreshMart_RetailAnalytics/Dasboards/Product%20Insights.png" width="48%">
+  <img src="FreshMart_RetailAnalytics/Dasboards/Supplier%20Insights.png" width="48%">
+</p>
 
 ## Project Overview
 
@@ -131,13 +134,14 @@ Based on the analysis:
 
 ## Repository Structure
 
-
+```
 FreshMart_RetailAnalytics/
 │
 ├── Dashboards/
 ├── Dataset/
 ├── SQL/
 └── README.md
+```
 
 ## Skills Demonstrated
 
